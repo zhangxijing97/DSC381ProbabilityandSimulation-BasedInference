@@ -92,12 +92,10 @@ For example, we estimate the probability p of a complication for a client of the
 
 p̂ = 3/62 = 0.048 is used to estimate p
 
+![Alt Text](Image/Confidence-Interval-for-a-Proportion.png)
+Question: The original claim was that the consultant’s true rate of complication was un- der the national rate of 10%. Does the interval estimate of 0 to 11.3% for the true probability of complication indicate that the surgical consultant has a lower rate of complications than the national average? Explain.
 
-
-
-
-
-
+Answer: No. Because the interval overlaps 10%, it might be that the consultant’s work is associated with a lower risk of complications, or it might be that the consultant’s work is associated with a higher risk (i.e., greater than 10%) of complications! Additionally, as previously mentioned, because this is an observational study, even if an association can be measured, there is no evidence that the consultant’s work is the cause of the complication rate (being higher or lower).
 
 
 
