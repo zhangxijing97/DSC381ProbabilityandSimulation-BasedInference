@@ -77,7 +77,7 @@ p = 0.60 (or 60%)
 
 So, the population proportion "p" is 0.60 or 60%, meaning 60% of the entire population supports the new transportation system.
 
-## 12.1 Medical consultant case study
+### 12.1 Medical consultant case study
 One consultant tried to attract patients by noting the average complication rate for liver donor surgeries in the US is about 10%, but her clients have had only 3 complications in the 62 liver donor surgeries she has facilitated. She claims this is strong evidence that her work meaningfully contributes to reducing complications
 
 We will let p represent the true complication rate for liver donors working with this consultant. (The “true” complication rate will be referred to as the parameter.) We estimate p using the data, and label the estimate p̂.
