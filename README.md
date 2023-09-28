@@ -1,5 +1,11 @@
 # DSC381ProbabilityandSimulation-BasedInference
 
+## Table of Contents
+
+- [Hypothesis testing](#Hypothesis-testing)
+- [Confidence Interval](#Confidence-Interval)
+- [HW 4 Solutions](#HW4-Solutions)
+
 ## Hypothesis testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
 - The alternative hypothesis (HA) represents an alternative claim under consideration and is often represented by a range of possible values for the value of interest.
@@ -97,16 +103,6 @@ Question: The original claim was that the consultant’s true rate of complicati
 
 Answer: No. Because the interval overlaps 10%, it might be that the consultant’s work is associated with a lower risk of complications, or it might be that the consultant’s work is associated with a higher risk (i.e., greater than 10%) of complications! Additionally, as previously mentioned, because this is an observational study, even if an association can be measured, there is no evidence that the consultant’s work is the cause of the complication rate (being higher or lower).
 
+## HW 4 Solutions
 
-
-
-<!-- 1. In Statistic, parameters of the population are often estimated based on the sample
-2. Don’t know entire population -> draw a sample -> estimate parameters of the population
-- parameters of the population: mean, variance and so on
-
-### Example:
-1. Want to know height of soccer player in USA.
-2. Draw a sample, mean of the sample is most likely different from that of the population.
-3. Draw several samples, each sampling is likely to come out with a difference mean.
-4. Try to find a range in which the true value will lie with a high probability.
-- High probability: 99%, 95%… -->
+test
