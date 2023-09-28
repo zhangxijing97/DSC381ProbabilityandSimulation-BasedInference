@@ -51,17 +51,17 @@ Result: Under the null hypothesis (no treatment effect), we’d observe a differ
 ## Confidence Interval
 - Population Proportion (p): This is the proportion of the entire city's population that supports the new public transportation system. Suppose that, in the entire city, 60,000 people support it.
 
-- p = (Number of supporters in the entire population) / (Total population)
-- p = 60,000 / 100,000
-- p = 0.60 (or 60%)
+p = (Number of supporters in the entire population) / (Total population)
+p = 60,000 / 100,000
+p = 0.60 (or 60%)
 
 - So, the population proportion "p" is 0.60 or 60%, meaning 60% of the entire population supports the new transportation system.
 
 - Sample Proportion (p̂): You randomly select 500 residents and ask them if they support the new transportation system. Out of the 500 respondents, 300 say they support it.
 
-- p̂ = (Number of supporters in the sample) / (Total sample size)
-- p̂ = 300 / 500
-- p̂ = 0.60 (or 60%)
+p̂ = (Number of supporters in the sample) / (Total sample size)
+p̂ = 300 / 500
+p̂ = 0.60 (or 60%)
 
 - The sample proportion "p̂" is also 0.60 or 60%, indicating that 60% of the sampled residents support the new transportation system.
 
