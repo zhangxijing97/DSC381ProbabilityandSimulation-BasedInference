@@ -39,6 +39,9 @@ Result: When we conduct formal studies, we reject a null position
 - H0 : Null hypothesis. Reminding students that they can save money for later purchases will not have any impact on students’ spending decisions.
 - HA : Alternative hypothesis. Reminding students that they can save money for later purchases will reduce the chance they will continue with a purchase.
 
+We can construct a point estimate for this difference as (T for treatment and C for control):
+pˆT −pˆC =34/75−19/75=0.453−0.253=0.200
+
 ## Confidence Interval
 
 1. In Statistic, parameters of the population are often estimated based on the sample
