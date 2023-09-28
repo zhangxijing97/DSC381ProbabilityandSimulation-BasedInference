@@ -53,15 +53,9 @@ Statistics: Assuming we have a good description of the experimental data as a r.
 
 Confidence Interval: we create what is called a confidence interval, which is a range of plausible values where we may find the true population value. The process for creating a confidence interval is based on understanding how a statistic (here the sample proportion p̂) varies around the parameter (here the population proportion p) when many different statistics are calculated from many different samples.
 
-Population Proportion (p): This is the proportion of the entire city's population that supports the new public transportation system. Suppose that, in the entire city, 60,000 people support it.
+Statistic (Sample Proportion - p̂): A statistic is a numerical summary or measurement calculated from a sample of data. In the context of creating a confidence interval, the statistic of interest is the sample proportion (p̂). This is the proportion of a specific characteristic or attribute within a single sample, and it serves as an estimate of the population proportion (p).
 
-p = (Number of supporters in the entire population) / (Total population)
-
-p = 60,000 / 100,000
-
-p = 0.60 (or 60%)
-
-- So, the population proportion "p" is 0.60 or 60%, meaning 60% of the entire population supports the new transportation system.
+Parameter (Population Proportion - p): A parameter is a numerical value that describes a characteristic of an entire population. In this context, the parameter of interest is the population proportion (p). It represents the true proportion of the characteristic within the entire population, which is often unknown and needs to be estimated using sample data.
 
 Sample Proportion (p̂): You randomly select 500 residents and ask them if they support the new transportation system. Out of the 500 respondents, 300 say they support it.
 
@@ -72,6 +66,16 @@ p̂ = 300 / 500
 p̂ = 0.60 (or 60%)
 
 - The sample proportion "p̂" is also 0.60 or 60%, indicating that 60% of the sampled residents support the new transportation system.
+
+Population Proportion (p): This is the proportion of the entire city's population that supports the new public transportation system. Suppose that, in the entire city, 60,000 people support it.
+
+p = (Number of supporters in the entire population) / (Total population)
+
+p = 60,000 / 100,000
+
+p = 0.60 (or 60%)
+
+- So, the population proportion "p" is 0.60 or 60%, meaning 60% of the entire population supports the new transportation system.
 
 
 
