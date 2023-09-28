@@ -29,8 +29,8 @@ Result: When we conduct formal studies, we reject a null position
 | Group    | Buy Video | Not Buy Video | Total |
 |----------|-----------|---------------|-------|
 | Control  |    56     |      19       |  75   |
-| Treatment|    41     |      75       | 116   |
-| Total    |    97     |      94       | 191   |
+| Treatment|    41     |      34       |  75   |
+| Total    |    97     |      53       |  150  |
 
 | Group    | Buy Video | Not Buy Video | Total |
 |----------|-----------|---------------|-------|
@@ -40,7 +40,7 @@ Result: When we conduct formal studies, we reject a null position
 - HA : Alternative hypothesis. Reminding students that they can save money for later purchases will reduce the chance they will continue with a purchase.
 
 We can construct a point estimate for this difference as (T for treatment and C for control):
-pˆT −pˆC =34/75−19/75=0.453−0.253=0.200
+- pˆT −pˆC =34/75−19/75=0.453−0.253=0.200
 
 ## Confidence Interval
 
