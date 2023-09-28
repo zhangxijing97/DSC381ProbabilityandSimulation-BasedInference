@@ -1,6 +1,9 @@
 # DSC381ProbabilityandSimulation-BasedInference
 
 ## Hypothesis testing
+- The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
+- The alternative hypothesis (HA) represents an alternative claim under consideration and is often represented by a range of possible values for the value of interest.
+
 ### 11.1 Sex discrimination case study
 |  Sex   | Promoted | Not Promoted | Total |
 |------- |--------- |------------- |------ |
@@ -41,6 +44,9 @@ Result: When we conduct formal studies, we reject a null position
 
 We can construct a point estimate for this difference as (T for treatment and C for control):
 - pˆT −pˆC =34/75−19/75=0.453−0.253=0.200
+![Alt Text](Image/Randomization-Test-for-a-Difference-in-Proportions-02.png)
+
+Result: Under the null hypothesis (no treatment effect), we’d observe a difference of at least +20% about 0.6%(StatKey shows 1%) of the time. That is really rare! Instead, we will conclude the data provide strong evidence there is a treatment effect: reminding students before a purchase that they could instead spend the money later on something else lowers the chance that they will continue with the purchase.
 
 ## Confidence Interval
 
