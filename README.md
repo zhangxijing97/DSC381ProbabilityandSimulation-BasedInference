@@ -14,6 +14,9 @@
 - HA : Alternative hypothesis. The variables sex and decision are not independent. The difference in promotion rates of 29.2% was not due to natural variability, and equally qualified female personnel are less likely to be promoted than male personnel.
 ![Alt Text](Image/Randomization-Test-for-a-Difference-in-Proportions-01.png)
 
+How often would you observe a difference of at least 29.2% (0.292)? Often, sometimes, rarely, or never?
+
+It appears that a difference of at least 29.2% under the null hypothesis would only happen about 2% of the time(StatKey shows 2.5%). Such a low probability indicates that observing such a large difference from chance alone is rare.
 
 ## Confidence Interval
 
