@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Hypothesis testing](#Hypothesis-testing)
-- [Confidence Interval](#Confidence-Interval)
-- [HW 4 Solutions](#HW-4-Solutions)
+- [Hypothesis Testing](#hypothesis-testing)
+- [Confidence Interval](#confidence-interval)
+- [HW 4 Solutions](#hw-4-solutions)
 
-## Hypothesis testing
+## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
 - The alternative hypothesis (HA) represents an alternative claim under consideration and is often represented by a range of possible values for the value of interest.
 
