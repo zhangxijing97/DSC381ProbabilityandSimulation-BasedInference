@@ -14,9 +14,14 @@
 - HA : Alternative hypothesis. The variables sex and decision are not independent. The difference in promotion rates of 29.2% was not due to natural variability, and equally qualified female personnel are less likely to be promoted than male personnel.
 ![Alt Text](Image/Randomization-Test-for-a-Difference-in-Proportions-01.png)
 
-How often would you observe a difference of at least 29.2% (0.292)? Often, sometimes, rarely, or never?
+Question: How often would you observe a difference of at least 29.2% (0.292)? Often, sometimes, rarely, or never?
 
-It appears that a difference of at least 29.2% under the null hypothesis would only happen about 2% of the time(StatKey shows 2.5%). Such a low probability indicates that observing such a large difference from chance alone is rare.
+Answer: It appears that a difference of at least 29.2% under the null hypothesis would only happen about 2% of the time(StatKey shows 2.5%). Such a low probability indicates that observing such a large difference from chance alone is rare.
+
+- If H0, the Null hypothesis is true: Sex has no effect on promotion decisions, and we observed a difference that is so large that it would only happen rarely.
+- If HA, the Alternative hypothesis is true: Sex has an effect on promotion decisions, and what we observed was actually due to equally qualified female candidates being discriminated against in promotion decisions, which explains the large difference of 29.2%.
+
+Result: When we conduct formal studies, we reject a null position
 
 ## Confidence Interval
 
