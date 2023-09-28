@@ -1,19 +1,16 @@
 # DSC381ProbabilityandSimulation-BasedInference
 
 ## Hypothesis testing
-- p: population proportion
-- p̂(p-hat): sample proportion
-- μ: population mean
-- x̄(X Bar): sample mean
-
 |  Sex   | Promoted | Not Promoted | Total |
 |------- |--------- |------------- |------ |
 |  Male  |    21    |      3       |  24   |
 | Female |    14    |     10       |  24   |
 | Total  |    35    |     13       |  48   |
-
+- p: population proportion
+- p̂(p-hat): sample proportion
+- μ: population mean
+- x̄(X Bar): sample mean
 - H0 : Null hypothesis. The variables sex and decision are independent. They have no relationship, and the observed difference between the proportion of males and females who were promoted, 29.2%, was due to the natural variability inherent in the population.
-
 - HA : Alternative hypothesis. The variables sex and decision are not independent. The difference in promotion rates of 29.2% was not due to natural variability, and equally qualified female personnel are less likely to be promoted than male personnel.
 
 
