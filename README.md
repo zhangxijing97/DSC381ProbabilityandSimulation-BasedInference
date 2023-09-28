@@ -4,7 +4,7 @@
 
 - [Hypothesis testing](#Hypothesis-testing)
 - [Confidence Interval](#Confidence-Interval)
-- [HW 4 Solutions](#HW4-Solutions)
+- [HW 4 Solutions](#HW-4-Solutions)
 
 ## Hypothesis testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
