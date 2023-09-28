@@ -60,7 +60,9 @@ p = 0.60 (or 60%)
 - Sample Proportion (p̂): You randomly select 500 residents and ask them if they support the new transportation system. Out of the 500 respondents, 300 say they support it.
 
 p̂ = (Number of supporters in the sample) / (Total sample size)
+
 p̂ = 300 / 500
+
 p̂ = 0.60 (or 60%)
 
 - The sample proportion "p̂" is also 0.60 or 60%, indicating that 60% of the sampled residents support the new transportation system.
