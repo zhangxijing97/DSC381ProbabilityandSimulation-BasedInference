@@ -104,5 +104,9 @@ Question: The original claim was that the consultant’s true rate of complicati
 Answer: No. Because the interval overlaps 10%, it might be that the consultant’s work is associated with a lower risk of complications, or it might be that the consultant’s work is associated with a higher risk (i.e., greater than 10%) of complications! Additionally, as previously mentioned, because this is an observational study, even if an association can be measured, there is no evidence that the consultant’s work is the cause of the complication rate (being higher or lower).
 
 ## HW 4 Solutions
+### Problem 5
+With a 90% confidence interval, the proportion of students in the band next year who will be from out-of-area. We will consider the students in the band this year as a random sample from all students who have and will attend the high school and be in the band. This year, there are 63 students in the band, 11 of whom are “out-of-area.”
+![Alt Text](Image/HW-4-Solutions-Problem-5.png)
+0.254-0.095=0.159
 
-test
+Answer:  0.160
