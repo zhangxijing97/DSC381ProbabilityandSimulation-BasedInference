@@ -112,21 +112,15 @@ With a 90% confidence interval, the proportion of students in the band next year
 Answer:  0.160
 
 ### Problem 6
-The population of students this year at Crossroads High School has 14% are classified as being from “out of area.”
-
+The population of students this year at Crossroads High School has 14% are classified as being from “out of area.”<br>
 In CrossRoads High School, consider this year’s students varsity football team a random sample from all the school’s varsity football players for 20 years. This year, the varsity football team has 38 students. Of those 9 are from “out-of-area.” Test the hypothesis that the proportion of football players from “out-of-area” over the 20 years is higher than 0.14. Find the p-value.
 ![Alt Text](Image/HW-4-Solutions-Problem-6.png)
-p-value meaning: if the entire population population proportion is 0.14, what is the probability of football team for 20 years is equal or greater than 9/38(0.2368)
-
-Method: Hypothesis test on a proportion
-H0:<br>
-H0:
-
-H0:
-H0:
-
-Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)
-
-0.075
-
-Answer:  0.068
+p-value meaning: if the entire population population proportion is 0.14, what is the probability of football team for 20 years is equal or greater than 9/38(0.2368)<br>
+Method: Hypothesis test on a proportion<br>
+H0: p = 0.14<br>
+H0: p > 0.14<br>
+Sample proportion of out of area players = p
+Sample statistic: p̂(p-hat) = 9/38 = 0.236842
+Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)<br>
+0.075<br>
+Answer:  0.068<br>
