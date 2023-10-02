@@ -6,6 +6,7 @@
 - [Confidence Interval](#confidence-interval)
 - [HW 4 Solutions](#hw-4-solutions)
 
+|------- |--------- |
 |"p-hat" (p̂)| represent the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes. |
 |"p"        | represents the population proportion or population probability of success. In many cases, interested in making inferences about a larger population based on the sample data you've collected. However, you typically don't know the true population proportion (p) because you're working with a sample, so you estimate it using p-hat (p̂). |
 | confidence intervals | use p-hat (p̂) to estimate p, and you construct an interval estimate for p. This interval gives you a range of values within which you believe the true population proportion (p) is likely to fall. |
