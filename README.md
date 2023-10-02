@@ -107,10 +107,8 @@ Answer: No. Because the interval overlaps 10%, it might be that the consultant�
 ### Problem 5
 With a 90% confidence interval, the proportion of students in the band next year who will be from out-of-area. We will consider the students in the band this year as a random sample from all students who have and will attend the high school and be in the band. This year, there are 63 students in the band, 11 of whom are “out-of-area.”
 ![Alt Text](Image/HW-4-Solutions-Problem-5.png)
-0.254-0.095=0.159
-
-Answer:  0.160
-
+0.254-0.095=0.159<br>
+Answer:  0.160<br>
 ### Problem 6
 The population of students this year at Crossroads High School has 14% are classified as being from “out of area.”<br>
 In CrossRoads High School, consider this year’s students varsity football team a random sample from all the school’s varsity football players for 20 years. This year, the varsity football team has 38 students. Of those 9 are from “out-of-area.” Test the hypothesis that the proportion of football players from “out-of-area” over the 20 years is higher than 0.14. Find the p-value.
@@ -119,8 +117,8 @@ p-value meaning: if the entire population population proportion is 0.14, what is
 Method: Hypothesis test on a proportion<br>
 H0: p = 0.14<br>
 H0: p > 0.14<br>
-Sample proportion of out of area players = p
-Sample statistic: p̂(p-hat) = 9/38 = 0.236842
+Sample proportion of out of area players = p<br>
+Sample statistic: p̂(p-hat) = 9/38 = 0.236842<br>
 Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)<br>
 0.075<br>
 Answer:  0.068<br>
