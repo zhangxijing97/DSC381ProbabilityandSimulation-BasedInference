@@ -6,11 +6,18 @@
 - [Confidence Interval](#confidence-interval)
 - [HW 4 Solutions](#hw-4-solutions)
 
-|------- |--------- |
-|"p-hat" (p̂)| represent the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes. |
+<!-- |------- |--------- | -->
+<!-- |"p-hat" (p̂)| represent the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes. |
 |"p"        | represents the population proportion or population probability of success. In many cases, interested in making inferences about a larger population based on the sample data you've collected. However, you typically don't know the true population proportion (p) because you're working with a sample, so you estimate it using p-hat (p̂). |
 | confidence intervals | use p-hat (p̂) to estimate p, and you construct an interval estimate for p. This interval gives you a range of values within which you believe the true population proportion (p) is likely to fall. |
-| hypothesis testing | compare p-hat (p̂) to a hypothesized value of p (usually denoted as p0) to determine whether there is evidence to support a particular claim or hypothesis. You typically calculate a test statistic based on p-hat and p0 and then assess whether the observed sample proportion (p-hat) is significantly different from the hypothesized population proportion (p0). |
+| hypothesis testing | compare p-hat (p̂) to a hypothesized value of p (usually denoted as p0) to determine whether there is evidence to support a particular claim or hypothesis. You typically calculate a test statistic based on p-hat and p0 and then assess whether the observed sample proportion (p-hat) is significantly different from the hypothesized population proportion (p0). | -->
+| Term                | Description                                                                                                                                                                        |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "p-hat" (p̂)         | Represents the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes.                                                 |
+| "p"                 | Represents the population proportion or population probability of success. In many cases, you may be interested in making inferences about a larger population based on the sample data you've collected. However, you typically don't know the true population proportion (p) because you're working with a sample, so you estimate it using p-hat (p̂). |
+| Confidence Intervals| Use p-hat (p̂) to estimate p, and you construct an interval estimate for p. This interval gives you a range of values within which you believe the true population proportion (p) is likely to fall. |
+| Hypothesis Testing  | Compare p-hat (p̂) to a hypothesized value of p (usually denoted as p0) to determine whether there is evidence to support a particular claim or hypothesis. You typically calculate a test statistic based on p-hat and p0 and then assess whether the observed sample proportion (p-hat) is significantly different from the hypothesized population proportion (p0). |
+
 Summary: p-hat (p̂) is based on sample data and represents the sample proportion, while p (population proportion) is often unknown and represents the parameter you're trying to estimate or test hypotheses about in the larger population.
 
 ## Hypothesis Testing
