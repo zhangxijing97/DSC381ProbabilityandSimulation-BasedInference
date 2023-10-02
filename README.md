@@ -118,6 +118,10 @@ In CrossRoads High School, consider this year’s students varsity football team
 ![Alt Text](Image/HW-4-Solutions-Problem-6.png)
 p-value meaning: if the entire population population proportion is 0.14, what is the probability of football team for 20 years is equal or greater than 9/38(0.2368)
 
+Method: Hypothesis test on a proportion
+H0:<br>
+H0:
+
 Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)
 
 0.075
