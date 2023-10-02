@@ -141,6 +141,6 @@ Method: Hypothesis test on difference of two independant proportions<br>
 H0: Pl-Pp = 0<br>
 H0: Pl-Pp > 0<br>
 Sample proportion of non-relapse when treated with lithium: 6/24<br>
-Sample proportion of non-relapse when treated with lithium: 4/24<br>
+Sample proportion of non-relapse when treated with placebo: 4/24<br>
 Sample statistic: p̂l - p̂p = 6/24 - 4/24 = 0.083333<br>
 Answer:  0.36<br>
