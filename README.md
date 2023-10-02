@@ -160,3 +160,8 @@ Note:<br>
 0.500*24 = 12<br>
 0.167*24 = 4.003<br>
 We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
+
+### Problem 10
+The bootstrap distribution of the sample statistic p-hat is centered at value of p-hat from the sample<br>
+The sampling distribution of the sample statistic p-hat is centered at the population parameter p<br>
+The randomization distribution used to test hypotheses about the value of the population proportion is centered at the value of p in the null hypothesis<br>
