@@ -134,3 +134,13 @@ Sample statistic: p̂(p-hat) = 9/38 = 0.236842<br>
 Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)<br>
 0.075<br>
 Answer:  0.068<br>
+### Problem 8
+Test the claim that the proportion of people in the population treated with lithium have a higher proportion of non-relapse than those who are not treated (i.e. treated with a placebo in our sample.) Find the p-value for this test.<br>
+![Alt Text](Image/HW-4-Solutions-Problem-8.png)
+Method: Hypothesis test on difference of two independant proportions<br>
+H0: Pl-Pp = 0<br>
+H0: Pl-Pp > 0<br>
+Sample proportion of non-relapse when treated with lithium: 6/24<br>
+Sample proportion of non-relapse when treated with lithium: 4/24<br>
+Sample statistic: p̂l - p̂p = 6/24 - 4/24 = 0.083333<br>
+Answer:  0.36<br>
