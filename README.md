@@ -125,7 +125,7 @@ Answer:  0.160<br>
 The population of students this year at Crossroads High School has 14% are classified as being from “out of area.”<br>
 In CrossRoads High School, consider this year’s students varsity football team a random sample from all the school’s varsity football players for 20 years. This year, the varsity football team has 38 students. Of those 9 are from “out-of-area.” Test the hypothesis that the proportion of football players from “out-of-area” over the 20 years is higher than 0.14. Find the p-value.
 ![Alt Text](Image/HW-4-Solutions-Problem-6.png)
-p-value meaning: if the entire population population proportion is 0.14, what is the probability of football team for 20 years is equal or greater than 9/38(0.2368)<br>
+p-value meaning in here: if the entire population population proportion is 0.14, what is the probability of football team for 20 years is equal or greater than 9/38(0.2368)<br>
 Method: Hypothesis test on a proportion<br>
 H0: p = 0.14<br>
 H0: p > 0.14<br>
@@ -137,6 +137,7 @@ Answer:  0.068<br>
 ### Problem 8
 Test the claim that the proportion of people in the population treated with lithium have a higher proportion of non-relapse than those who are not treated (i.e. treated with a placebo in our sample.) Find the p-value for this test.<br>
 ![Alt Text](Image/HW-4-Solutions-Problem-8.png)
+p-value meaning in here: if H0 is correct, what is probability of p̂l - p̂p >= 0.083333
 Method: Hypothesis test on difference of two independant proportions<br>
 H0: Pl-Pp = 0<br>
 H0: Pl-Pp > 0<br>
@@ -144,3 +145,18 @@ Sample proportion of non-relapse when treated with lithium: 6/24<br>
 Sample proportion of non-relapse when treated with placebo: 4/24<br>
 Sample statistic: p̂l - p̂p = 6/24 - 4/24 = 0.083333<br>
 Answer:  0.36<br>
+Note: The p-value, which is 0.36 in this case, is the probability of obtaining a sample statistic as extreme as the one calculated (0.083333) or more extreme under the null hypothesis. In other words, it tells you how likely it is to observe this difference in proportions if there is truly no difference between the groups.<br>
+
+### Problem 9
+Find an 83% confidence interval for the difference in the proportion of people in the population who are expected to have no relapse between those treated with desipramine and those treated with lithium.
+![Alt Text](Image/HW-4-Solutions-Problem-9.png)
+Method: Confidence interval for the difference of independant proportions<br>
+Parameter to estimate: Pd - Pl<br>
+Sample proportion of non-relapse when treated with desipramine: 14/24<br>
+Sample proportion of non-relapse when treated with lithium: 6/24<br>
+0.500 - 0.167 = 0.333<br>
+Answer:  0.35<br>
+Note:<br>
+0.500*24 = 12<br>
+0.167*24 = 4.003<br>
+We can say it has 83% probability that the difference between proportion of two kind of treatment is from 4.003/24 to 12/24.<br>
