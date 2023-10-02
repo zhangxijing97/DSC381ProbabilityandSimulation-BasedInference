@@ -159,4 +159,4 @@ Answer:  0.35<br>
 Note:<br>
 0.500*24 = 12<br>
 0.167*24 = 4.003<br>
-We can say it has 83% probability that the difference between proportion of two kind of treatment is from 4.003/24 to 12/24.<br>
+We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
