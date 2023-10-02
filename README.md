@@ -2,9 +2,12 @@
 
 ## Table of Contents
 
+4. [Chapter 4 Statistical Inference Using Simulation](#chapter-4-statistical-inference-using-simulation)
 - [Hypothesis Testing](#hypothesis-testing)
 - [Confidence Interval](#confidence-interval)
 - [HW 4 Solutions](#hw-4-solutions)
+
+## Chapter 4 Statistical Inference Using Simulation
 
 | Term                | Description                                                                                                                                                                        |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
