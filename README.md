@@ -122,6 +122,9 @@ Method: Hypothesis test on a proportion
 H0:<br>
 H0:
 
+H0:
+H0:
+
 Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)
 
 0.075
