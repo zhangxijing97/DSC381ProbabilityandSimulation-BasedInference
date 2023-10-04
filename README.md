@@ -18,6 +18,22 @@
 
 Summary: p-hat (p̂) is based on sample data and represents the sample proportion, while p (population proportion) is often unknown and represents the parameter you're trying to estimate or test hypotheses about in the larger population.
 
+- Very Strong Evidence (p < 0.001):
+
+A p-value less than 0.001 is often considered to provide very strong evidence against the null hypothesis. It suggests that the observed results are highly unlikely to be due to random chance alone.
+- Strong Evidence (0.001 ≤ p < 0.01):
+
+A p-value in the range of 0.001 to less than 0.01 is generally considered to provide strong evidence against the null hypothesis. It indicates a low probability that the results are due to chance.
+- Moderate Evidence (0.01 ≤ p < 0.05):
+
+A p-value in the range of 0.01 to less than 0.05 is typically interpreted as providing moderate evidence against the null hypothesis. It suggests that the observed results are statistically significant but not as strong as the previous categories.
+- Some Evidence (0.05 ≤ p < 0.1):
+
+A p-value in the range of 0.05 to less than 0.1 may be considered as providing some evidence against the null hypothesis. It indicates that the results are marginally significant but not strong enough to be conclusive.
+Weak Evidence (p ≥ 0.1):
+
+- A p-value greater than or equal to 0.1 is generally considered weak evidence against the null hypothesis. It suggests that the observed results are not statistically significant, and any effect observed may be due to random chance.
+
 ## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
 - The alternative hypothesis (HA) represents an alternative claim under consideration and is often represented by a range of possible values for the value of interest.
