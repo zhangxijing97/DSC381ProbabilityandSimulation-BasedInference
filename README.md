@@ -18,6 +18,7 @@
 
 Summary: p-hat (p̂) is based on sample data and represents the sample proportion, while p (population proportion) is often unknown and represents the parameter you're trying to estimate or test hypotheses about in the larger population.
 
+### Strength of evidence
 - Very Strong Evidence (p < 0.001):
 
 A p-value less than 0.001 is often considered to provide very strong evidence against the null hypothesis. It suggests that the observed results are highly unlikely to be due to random chance alone.
@@ -35,6 +36,15 @@ Weak Evidence (p ≥ 0.1):
 - Weak evidence (0.1 ≤ p):
 
 A p-value greater than or equal to 0.1 is generally considered weak evidence against the null hypothesis. It suggests that the observed results are not statistically significant, and any effect observed may be due to random chance.
+
+### Explanatory variable and Response variable
+- Explanatory Variable (Independent Variable):
+
+The explanatory variable is also known as the independent variable. It is the variable that is manipulated or controlled by the researcher in an experiment or study.
+
+- Response Variable (Dependent Variable):
+
+The response variable is also known as the dependent variable. It is the outcome or result that researchers are interested in understanding or explaining based on the influence of the explanatory variable(s).
 
 ## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
