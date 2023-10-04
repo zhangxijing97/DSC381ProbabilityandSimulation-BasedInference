@@ -19,23 +19,11 @@
 Summary: p-hat (p̂) is based on sample data and represents the sample proportion, while p (population proportion) is often unknown and represents the parameter you're trying to estimate or test hypotheses about in the larger population.
 
 ### Strength of evidence
-- Very Strong Evidence (p < 0.001):
-
-A p-value less than 0.001 is often considered to provide very strong evidence against the null hypothesis. It suggests that the observed results are highly unlikely to be due to random chance alone.
-- Strong Evidence (0.001 ≤ p < 0.01):
-
-A p-value in the range of 0.001 to less than 0.01 is generally considered to provide strong evidence against the null hypothesis. It indicates a low probability that the results are due to chance.
-- Moderate Evidence (0.01 ≤ p < 0.05):
-
-A p-value in the range of 0.01 to less than 0.05 is typically interpreted as providing moderate evidence against the null hypothesis. It suggests that the observed results are statistically significant but not as strong as the previous categories.
-- Some Evidence (0.05 ≤ p < 0.1):
-
-A p-value in the range of 0.05 to less than 0.1 may be considered as providing some evidence against the null hypothesis. It indicates that the results are marginally significant but not strong enough to be conclusive.
-Weak Evidence (p ≥ 0.1):
-
-- Weak evidence (0.1 ≤ p):
-
-A p-value greater than or equal to 0.1 is generally considered weak evidence against the null hypothesis. It suggests that the observed results are not statistically significant, and any effect observed may be due to random chance.
+- Very Strong Evidence (p < 0.01)
+- Strong Evidence (0.01 ≤ p < 0.03)
+- Moderate Evidence (0.03 ≤ p < 0.05)
+- Some Evidence (0.07 ≤ p < 0.1)
+- Weak evidence (0.1 ≤ p)
 
 ### Explanatory variable and Response variable
 - Explanatory Variable (Independent Variable):
@@ -45,6 +33,18 @@ The explanatory variable is also known as the independent variable. It is the va
 - Response Variable (Dependent Variable):
 
 The response variable is also known as the dependent variable. It is the outcome or result that researchers are interested in understanding or explaining based on the influence of the explanatory variable(s).
+It must be correlated with the independent variable. This may be a causal relationship, but it does not have to be.
+It must be causally related to the dependent variable.
+
+- Confounding variables: 
+
+Confounding variables (a.k.a. confounders or confounding factors) are a type of extraneous variable that are related to a study’s independent and dependent variables.<br>
+A variable must meet two conditions to be a confounder:<br>
+It must be correlated with the independent variable. This may be a causal relationship, but it does not have to be.<br>
+It must be causally related to the dependent variable.<br>
+Example of a confounding variable:<br>
+You collect data on sunburns and ice cream consumption. You find that higher ice cream consumption is associated with a higher probability of sunburn. Does that mean ice cream consumption causes sunburn?<br>
+Here, the confounding variable is temperature: high temperatures cause people to both eat more ice cream and spend more time outdoors under the sun, resulting in more sunburns.<br>
 
 ## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
