@@ -47,7 +47,30 @@ A variable must meet two conditions to be a confounder:<br>
 Example of a confounding variable:<br>
 You collect data on sunburns and ice cream consumption. You find that higher ice cream consumption is associated with a higher probability of sunburn. Does that mean ice cream consumption causes sunburn?<br>
 Here, the confounding variable is temperature: high temperatures cause people to both eat more ice cream and spend more time outdoors under the sun, resulting in more sunburns.<br>
-Link: [onfounding-variables](https://www.scribbr.com/methodology/confounding-variables/)
+Link: [Confounding variables example](https://www.scribbr.com/methodology/confounding-variables/)
+
+### generalize to the population and provide evidence
+
+- Generalize to the population: If the subjects in the sample of a study were selected at random from the entire population in question, the results can be generalized to the entire population because random sampling ensures that each individual has the same chance to be selected for the sample.
+
+- Provide evidence: If the subjects in the sample were randomly assigned to treatments, it may be appropriate to make conclusions about cause and effect because the treatment groups will be roughly equivalent at the beginning of the experiment other than the treatment they receive.
+
+Example:
+
+A community center offers a Spanish course. This year, all students in the course were offered additional audio lessons they could take at home. The students who took these additional audio lessons did better in the course than students who didn’t take the additional audio lessons. Based on these results, which of the following is the most appropriate conclusion?
+
+- A Taking additional audio lessons will cause an improvement for any student who takes any foreign language course.
+- B Taking additional audio lessons will cause an improvement for any student who takes a Spanish course.
+- C Taking additional audio lessons was the cause of the improvement for the students at the community center who took the Spanish course. 
+- D No conclusion about cause and effect can be made regarding students at the community center who took the additional audio lessons at home and their performance in the Spanish course
+
+The correct answer is choice D. The better results of these students may have been a result of being more motivated, as shown in their willingness to do extra work, and not the additional audio lessons.
+
+Choice A is incorrect because no conclusion about cause and effect is possible without random assignment to treatments and because the sample was only students taking a Spanish course, so no conclusion can be appropriately made about students taking all foreign language courses.
+
+Choice B is incorrect because no conclusion about cause and effect is possible without random assignment to treatments and because the students taking a Spanish course at the community center is not a random sample of all students who take a Spanish course. 
+
+Choice C is incorrect because the students taking the Spanish course at the community center were not randomly assigned to use the additional audio lessons or to not use the additional audio lessons
 
 ## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
