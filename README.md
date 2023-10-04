@@ -33,6 +33,7 @@ A p-value in the range of 0.05 to less than 0.1 may be considered as providing s
 Weak Evidence (p ≥ 0.1):
 
 - Weak evidence (0.1 ≤ p):
+
 A p-value greater than or equal to 0.1 is generally considered weak evidence against the null hypothesis. It suggests that the observed results are not statistically significant, and any effect observed may be due to random chance.
 
 ## Hypothesis Testing
