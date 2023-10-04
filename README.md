@@ -21,7 +21,7 @@ Summary: p-hat (p̂) is based on sample data and represents the sample proportio
 ### Strength of evidence
 - Very Strong Evidence (p < 0.01)
 - Strong Evidence (0.01 ≤ p < 0.03)
-- Moderate Evidence (0.03 ≤ p < 0.05)
+- Moderate Evidence (0.03 ≤ p < 0.07)
 - Some Evidence (0.07 ≤ p < 0.1)
 - Weak evidence (0.1 ≤ p)
 
@@ -47,6 +47,7 @@ A variable must meet two conditions to be a confounder:<br>
 Example of a confounding variable:<br>
 You collect data on sunburns and ice cream consumption. You find that higher ice cream consumption is associated with a higher probability of sunburn. Does that mean ice cream consumption causes sunburn?<br>
 Here, the confounding variable is temperature: high temperatures cause people to both eat more ice cream and spend more time outdoors under the sun, resulting in more sunburns.<br>
+Link: [onfounding-variables](https://www.scribbr.com/methodology/confounding-variables/)
 
 ## Hypothesis Testing
 - The null hypothesis (H0) often represents either a skeptical perspective or a claim of “no difference” to be tested.
