@@ -38,10 +38,12 @@ It must be causally related to the dependent variable.
 
 - Confounding variables: 
 
-Confounding variables (a.k.a. confounders or confounding factors) are a type of extraneous variable that are related to a study’s independent and dependent variables.<br>
+Confounding variables (a.k.a. confounders or confounding factors) are a type of extraneous variable that are related to a study’s independent and dependent variables.
+
 A variable must meet two conditions to be a confounder:<br>
-It must be correlated with the independent variable. This may be a causal relationship, but it does not have to be.<br>
-It must be causally related to the dependent variable.<br>
+1. It must be correlated with the independent variable. This may be a causal relationship, but it does not have to be.<br>
+2. It must be causally related to the dependent variable.
+
 Example of a confounding variable:<br>
 You collect data on sunburns and ice cream consumption. You find that higher ice cream consumption is associated with a higher probability of sunburn. Does that mean ice cream consumption causes sunburn?<br>
 Here, the confounding variable is temperature: high temperatures cause people to both eat more ice cream and spend more time outdoors under the sun, resulting in more sunburns.<br>
