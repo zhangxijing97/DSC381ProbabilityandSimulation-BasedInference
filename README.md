@@ -217,5 +217,8 @@ We can say it is 83% probability that the difference between the proportion of t
 
 ### Problem 10
 10.i The bootstrap distribution(used for a confidence interval) of the sample statistic p-hat is centered at value of p-hat from the sample<br>
+![Alt Text](Image/Quiz-3-Solutions-Problem-4.png)
 10.ii The sampling distribution of the sample statistic p-hat is centered at the population parameter p<br>
+![Alt Text](Image/Quiz-3-Solutions-Problem-1.png)
 10.iii The randomization distribution(used for a hypothesis test) used to test hypotheses about the value of the population proportion is centered at the value of p in the null hypothesis<br>
+![Alt Text](Image/Quiz-3-Solutions-Problem-3.png)
