@@ -216,6 +216,6 @@ Note:<br>
 We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
 
 ### Problem 10
-10.i The bootstrap distribution of the sample statistic p-hat is centered at value of p-hat from the sample<br>
+10.i The bootstrap distribution(used for a confidence interval) of the sample statistic p-hat is centered at value of p-hat from the sample<br>
 10.ii The sampling distribution of the sample statistic p-hat is centered at the population parameter p<br>
-10.iii The randomization distribution used to test hypotheses about the value of the population proportion is centered at the value of p in the null hypothesis<br>
+10.iii The randomization distribution(used for a hypothesis test) used to test hypotheses about the value of the population proportion is centered at the value of p in the null hypothesis<br>
