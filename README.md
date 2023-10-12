@@ -216,6 +216,10 @@ Note:<br>
 We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
 
 ### Problem 10
+| Term                | Description                                                                                                                                                                        |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "p-hat" (p̂)         | Represents the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes.                                                 |
+| "p"                 | Represents the population proportion or population probability of success. In many cases, you may be interested in making inferences about a larger population based on the sample data you've collected. However, you typically don't know the true population proportion (p) because you're working with a sample, so you estimate it using p-hat (p̂). |
 10.i The bootstrap distribution(used for a confidence interval) of the sample statistic p-hat is centered at value of p-hat from the sample<br>
 ![Alt Text](Image/Quiz-3-Solutions-Problem-4.png)
 10.ii The sampling distribution of the sample statistic p-hat is centered at the population parameter p<br>
