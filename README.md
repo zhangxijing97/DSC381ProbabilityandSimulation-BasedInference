@@ -230,4 +230,4 @@ Example(Hypothesis Test): 60% of all college students are women. Now consider us
 
 ## Chapter 10 Inference with Simulation: Details
 Does light at night affect mice’s weight gain?<br>
-![Alt Text](Chapter-10-Example-1.png)
+![Alt Text](Image/Chapter-10-Example-1.png)
