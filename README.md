@@ -229,5 +229,10 @@ We can say it is 83% probability that the difference between the proportion of t
 Example(Hypothesis Test): 60% of all college students are women. Now consider us taking a sample of UT Austin students and we get that the proportion of female students is 54%. Now suppose we want to use the randomization test to test the claim that the true proportion of women at UT Austin is less than 0.6, which is a reasonable choice for p given what we know about the country-wide proportion but may not hold at UT Austin specifically. In this example, p=0.6, and like you said the randomization test distribution is centered at 0.6, but the true proportion of women at UT Austin is not known, and in fact were it known there would be little point in doing this test.
 
 ## Chapter 10 Inference with Simulation: Details
-Does light at night affect mice’s weight gain?<br>
+### Does light at night affect mice’s weight gain?
 ![Alt Text](Image/Chapter-10-Example-1.png)
+1. Chose a randomization method (Shift groups)<br>
+2. Generated MANY replications (4000).<br>
+3. Chose to do a two-tailed test.<br>
+4. Put the value of the test statistic (difference of the two sample means) on the horizontal axis.<br>
+5. Read the p-value to be 2(0.0055)=0.011<br>
