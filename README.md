@@ -218,9 +218,9 @@ Note:<br>
 We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
 
 ### Problem 10
-| Term                | Description                                                                                                                                                                        |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| "p-hat" (p̂)         | Represents the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes.                                                 |
+| Term                | Description         |
+|---------------------|---------------------|
+| "p-hat" (p̂)         | Represents the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes. |
 | "p"                 | Represents the population proportion or population probability of success. In many cases, you may be interested in making inferences about a larger population based on the sample data you've collected. However, you typically don't know the true population proportion (p) because you're working with a sample, so you estimate it using p-hat (p̂). |
 10.i The bootstrap distribution(used for a confidence interval) of the sample statistic p-hat is centered at value of p-hat from the sample<br> | ![Alt Text](Image/Quiz-3-Solutions-Problem-4.png)
 10.ii The sampling distribution of the sample statistic p-hat is centered at the population parameter p<br> | ![Alt Text](Image/Quiz-3-Solutions-Problem-1.png)
@@ -236,3 +236,6 @@ Example(Hypothesis Test): 60% of all college students are women. Now consider us
 3. Chose to do a two-tailed test.<br>
 4. Put the value of the test statistic (difference of the two sample means) on the horizontal axis.<br>
 5. Read the p-value to be 2(0.0055)=0.011<br>
+It is very unlikely to happen if Ho is true<br>
+Conclusion: The data give quite strong evidence (p=0.011) that there is a difference in average weight gain between mice who are exposed to light at night and those who were not.<br>
+Note: p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
