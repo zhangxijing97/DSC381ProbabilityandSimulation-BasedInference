@@ -247,7 +247,7 @@ Conclusion (Statistical Significance):<br>
 
 Note: p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
 
-Several issues can be discussed here:<br>
+**Several issues can be discussed here:**<br>
 1. Why was this a two-sided test?<br>
 • I approached this dataset without an opinion about whether or how a change in the light conditions for mice would result in a change in their weight gain.
 (Possibly the researcher had an opinion and did a one-sided test.)<br>
