@@ -237,15 +237,15 @@ Example(Hypothesis Test): 60% of all college students are women. Now consider us
 4. Put the value of the test statistic (difference of the two sample means) on the horizontal axis.<br>
 5. Read the p-value to be 2(0.0055)=0.011<br>
 
-Interpretation of result: It is very unlikely to happen if Ho is true<br>
+**Interpretation of result:** It is very unlikely to happen if Ho is true<br>
 
-Conclusion: The data give quite strong evidence (p=0.011) that there is a difference in average weight gain between mice who are exposed to light at night and those who were not.<br>
+**Conclusion:** The data give quite strong evidence (p=0.011) that there is a difference in average weight gain between mice who are exposed to light at night and those who were not.<br>
 
-Conclusion (Statistical Significance):<br>
+**Conclusion (Statistical Significance):**<br>
 1. Choose a cut-off value for how small the p-value has to be to decide to act on the alternative hypothesis.<br>
 2. Decide: Reject Ho and act on Ha if the p-value is smaller than that cut-off.<br>
 
-Note: p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
+**Note:** p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
 
 **Several issues can be discussed here:**<br>
 1. Why was this a two-sided test?<br>
