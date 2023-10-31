@@ -245,7 +245,7 @@ Example(Hypothesis Test): 60% of all college students are women. Now consider us
 1. Choose a cut-off value for how small the p-value has to be to decide to act on the alternative hypothesis.<br>
 2. Decide: Reject Ho and act on Ha if the p-value is smaller than that cut-off.<br>
 
-**Note:** p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
+Note: p-value is the probability of obtaining a test statistic as extreme as, or more extreme than, the one observed in the sample data, assuming that the null hypothesis is true.
 
 **Several issues can be discussed here:**<br>
 1. Why was this a two-sided test?<br>
@@ -253,14 +253,14 @@ Example(Hypothesis Test): 60% of all college students are women. Now consider us
 (Possibly the researcher had an opinion and did a one-sided test.)<br>
 • Without a reason to believe one direction or another, it was most reasonable to simply test whether there is difference.<br>
 2. How would one choose a cut-off value?<br>
-• When making a decision to DO something, there are always two possible errors that can be made, with different consequences.
-• Error: Reject Ho when Ho true. (Called a Type I error.)
-• Error: Fail to reject Ho when Ha is true. (Called a Type II error.)
-• There is a “trade-off” between making the two possible types of error.
-• The appropriate way to choose a cut-off value is for the person who will eventually make the decision to make a judgment about how to balance the negative impact of the consequences of each type of error.
-• In a given field, there may be a customary cut-off level used, based on judgment of many people about the relative “cost” of the consequences.
-• This “cut-off” value for the p-value is called the “significance level.”
+• When making a decision to DO something, there are always two possible errors that can be made, with different consequences.<br>
+• Error: Reject Ho when Ho true. (Called a Type I error.)<br>
+• Error: Fail to reject Ho when Ha is true. (Called a Type II error.)<br>
+• There is a “trade-off” between making the two possible types of error.<br>
+• The appropriate way to choose a cut-off value is for the person who will eventually make the decision to make a judgment about how to balance the negative impact of the consequences of each type of error.<br>
+• In a given field, there may be a customary cut-off level used, based on judgment of many people about the relative “cost” of the consequences.<br>
+• This “cut-off” value for the p-value is called the “significance level.”<br>
 3. Why did I choose this randomization method?
-• First, in most situations any of the three methods will give similar results.
-• Having a choice mainly illustrates that there is not just one way to do it.
-• Here, I chose this method because, if the “treatment” (light exposure) changes not only the mean but the variability in weight gain, this method preserves the different variability in the different groups.
+• First, in most situations any of the three methods will give similar results.<br>
+• Having a choice mainly illustrates that there is not just one way to do it.<br>
+• Here, I chose this method because, if the “treatment” (light exposure) changes not only the mean but the variability in weight gain, this method preserves the different variability in the different groups.<br>
