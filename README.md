@@ -229,7 +229,7 @@ We can say it is 83% probability that the difference between the proportion of t
 Example(Hypothesis Test): 60% of all college students are women. Now consider us taking a sample of UT Austin students and we get that the proportion of female students is 54%. Now suppose we want to use the randomization test to test the claim that the true proportion of women at UT Austin is less than 0.6, which is a reasonable choice for p given what we know about the country-wide proportion but may not hold at UT Austin specifically. In this example, p=0.6, and like you said the randomization test distribution is centered at 0.6, but the true proportion of women at UT Austin is not known, and in fact were it known there would be little point in doing this test.
 
 ## Chapter 10 Inference with Simulation: Details
-### Does light at night affect mice’s weight gain?
+### Does light at night affect mice’s weight gain? (hypothesis test)
 ![Alt Text](Image/Chapter-10-Example-1.png)
 1. Chose a randomization method (Shift groups)<br>
 2. Generated MANY replications (4000).<br>
@@ -265,8 +265,17 @@ Note: p-value is the probability of obtaining a test statistic as extreme as, or
 • Having a choice mainly illustrates that there is not just one way to do it.<br>
 • Here, I chose this method because, if the “treatment” (light exposure) changes not only the mean but the variability in weight gain, this method preserves the different variability in the different groups.<br>
 
-### Student Smokers
+### Student Smokers (hypothesis test)
 ![Alt Text](Image/Chapter-10-Example-2.png)
 The p-value is 2(0.124) = 0.248<br>
 **Interpretation of result:** The actual data we observed is not at all far out in the tails of this dist’n, so it is reasonably likely to happen if Ho is true.<br>
-**Conclusion:** The p-value for this hypothesis test is 0.246, which is not at all small. Data values this extreme could easily happen by chance alone if there is no real difference in the population proportions of smokers.<br>
+**Conclusion:** The p-value for this hypothesis test is 0.248, which is not at all small. Data values this extreme could easily happen by chance alone if there is no real difference in the population proportions of smokers.<br>
+
+### Mustang Price dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-3.png)
+
+### Manhattan Apts. Rent dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-4.png)
+
+### Very Small Proportion dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-5.png)
