@@ -279,3 +279,15 @@ The p-value is 2(0.124) = 0.248<br>
 
 ### Very Small Proportion dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-5.png)
+
+### Median of Mustang Price dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-6.png)
+
+### Median of Manhattan Apts. Rent dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-7.png)
+
+### Standard Deviation of Body Temperature dataset (confidence interval)
+![Alt Text](Image/Chapter-10-Example-8.png)
+
+### Standard Deviation of Car Depreciation Data (confidence interval)
+![Alt Text](Image/Chapter-10-Example-9.png)
