@@ -260,7 +260,13 @@ Note: p-value is the probability of obtaining a test statistic as extreme as, or
 • The appropriate way to choose a cut-off value is for the person who will eventually make the decision to make a judgment about how to balance the negative impact of the consequences of each type of error.<br>
 • In a given field, there may be a customary cut-off level used, based on judgment of many people about the relative “cost” of the consequences.<br>
 • This “cut-off” value for the p-value is called the “significance level.”<br>
-3. Why did I choose this randomization method?
+3. Why did I choose this randomization method?<br>
 • First, in most situations any of the three methods will give similar results.<br>
 • Having a choice mainly illustrates that there is not just one way to do it.<br>
 • Here, I chose this method because, if the “treatment” (light exposure) changes not only the mean but the variability in weight gain, this method preserves the different variability in the different groups.<br>
+
+### Student Smokers
+![Alt Text](Image/Chapter-10-Example-2.png)
+The p-value is 2(0.124) = 0.248<br>
+**Interpretation of result:** The actual data we observed is not at all far out in the tails of this dist’n, so it is reasonably likely to happen if Ho is true.<br>
+**Conclusion:** The p-value for this hypothesis test is 0.246, which is not at all small. Data values this extreme could easily happen by chance alone if there is no real difference in the population proportions of smokers.<br>
