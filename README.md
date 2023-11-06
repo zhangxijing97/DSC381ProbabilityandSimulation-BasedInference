@@ -310,4 +310,4 @@ Example: Roll the dice multiple times to get the sum of multiple results<br>
 
 ### Central Limit Theorem Visualizations
 http://visualize.tlok.org/intro-stat/central_limit.php
-![Alt Text](Image/Chapter-11-Image-2.png)
+![Alt Text](Image/Chapter-11-Image-7.png)
