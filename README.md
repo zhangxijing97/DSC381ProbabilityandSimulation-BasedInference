@@ -295,6 +295,15 @@ The p-value is 2(0.124) = 0.248<br>
 ![Alt Text](Image/Chapter-10-Example-9.png)
 
 ## Chapter 11 Inferential Statistics with Theoretical Distributions
+### General Idea of the Central Limit Theorem
+1. Start with a random variable: X<br>
+Example: Roll a dice get 6 results<br>
+2. Add N samples of this variable<br>
+X1 + X2 + X3 + ... + Xn<br>
+Example: Roll a dice get 6 results<br>
+3. Why was this a two-sided test?<br>
+
 ### Central Limit Theorem Visualizations
+The Central Limit Theorem (CLT) is a fundamental concept in statistics. It states that when you take many random samples from any population, the distribution of sample means will tend to follow a normal distribution, even if the original population doesn't.<br>
 http://visualize.tlok.org/intro-stat/central_limit.php
 ![Alt Text](Image/Chapter-11-Image-1.png)
