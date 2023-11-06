@@ -301,7 +301,7 @@ Example: Roll a dice get 6 results<br>
 **2. Add N samples of this variable<br>**
 X1 + X2 + X3 + ... + Xn<br>
 Example: Roll the dice multiple times to get the sum of multiple results<br>
-**3. Why was this a two-sided test?<br>**
+**3. The distribution of this sum looks more like a bell curve as N -> ∞<br>**
 
 ### Central Limit Theorem Visualizations
 The Central Limit Theorem (CLT) is a fundamental concept in statistics. It states that when you take many random samples from any population, the distribution of sample means will tend to follow a normal distribution, even if the original population doesn't.<br>
