@@ -306,8 +306,8 @@ Example: Roll the dice multiple times to get the sum of multiple results<br>
 **3. The distribution of this sum looks more like a bell curve as N -> ∞<br>**
 ![Alt Text](Image/Chapter-11-Image-1.png)
 ![Alt Text](Image/Chapter-11-Image-3.png)
-**For larger and larger sums, it looks like more and more like a bell curve<br>**
+**For larger and larger sums, it looks like more and more like a bell curve and more spread out<br>**
 
 ### Central Limit Theorem Visualizations
 http://visualize.tlok.org/intro-stat/central_limit.php
-![Alt Text](Image/Chapter-11-Image-7.png)
+![Alt Text](Image/Chapter-11-Image-4.png)
