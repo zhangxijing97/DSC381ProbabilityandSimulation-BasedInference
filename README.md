@@ -10,6 +10,8 @@
 10. [Chapter 10 Inference with Simulation: Details](#chapter-10-inference-with-simulation-details)
 
 11. [Chapter 11 Inferential Statistics with Theoretical Distributions](#chapter-11-inferential-statistics-with-theoretical-distributions)
+- [General Idea of the Central Limit Theorem](#general-idea-of-the-central-limit-theorem)
+- [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -302,8 +304,9 @@ Example: Roll a dice get 6 results<br>
 X1 + X2 + X3 + ... + Xn<br>
 Example: Roll the dice multiple times to get the sum of multiple results<br>
 **3. The distribution of this sum looks more like a bell curve as N -> ∞<br>**
+![Alt Text](Image/Chapter-11-Image-1.png)
+
 
 ### Central Limit Theorem Visualizations
-The Central Limit Theorem (CLT) is a fundamental concept in statistics. It states that when you take many random samples from any population, the distribution of sample means will tend to follow a normal distribution, even if the original population doesn't.<br>
 http://visualize.tlok.org/intro-stat/central_limit.php
-![Alt Text](Image/Chapter-11-Image-1.png)
+![Alt Text](Image/Chapter-11-Image-2.png)
