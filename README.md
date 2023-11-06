@@ -9,6 +9,8 @@
 
 10. [Chapter 10 Inference with Simulation: Details](#chapter-10-inference-with-simulation-details)
 
+11. [Chapter 11 Inferential Statistics with Theoretical Distributions](#chapter-11-inferential-statistics-with-theoretical-distributions)
+
 ## Chapter 4 Introduction to Statistical Inference
 
 | Term                | Description         |
@@ -291,3 +293,8 @@ The p-value is 2(0.124) = 0.248<br>
 
 ### Standard Deviation of Car Depreciation Data (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-9.png)
+
+## Chapter 11 Inferential Statistics with Theoretical Distributions
+### Central Limit Theorem Visualizations
+http://visualize.tlok.org/intro-stat/central_limit.php
+![Alt Text](Image/Chapter-11-Image-1.png)
