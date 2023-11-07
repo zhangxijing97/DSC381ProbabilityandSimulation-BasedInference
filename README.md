@@ -12,7 +12,7 @@
 11. [Chapter 11 Inferential Statistics with Theoretical Distributions](#chapter-11-inferential-statistics-with-theoretical-distributions)
 - [General Idea of the Central Limit Theorem](#general-idea-of-the-central-limit-theorem)
 - [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
-- [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
+- [Confidence Interval z Star Scores](#confidence-interval-z-*-scores)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -313,7 +313,7 @@ Example: Roll the dice multiple times to get the sum of multiple results<br>
 http://visualize.tlok.org/intro-stat/central_limit.php
 ![Alt Text](Image/Chapter-11-Image-4.png)
 
-### Confidence Interval z Star Scores
+### Confidence Interval z* Scores
 **For a normal dist’n, the middle 90% is bounded by<br>**
 center – 1.645 * standard deviation<br>
 center + 1.645 * standard deviation<br>
