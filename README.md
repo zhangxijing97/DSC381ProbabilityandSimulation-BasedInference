@@ -13,6 +13,7 @@
 - [General Idea of the Central Limit Theorem](#general-idea-of-the-central-limit-theorem)
 - [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
 - [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
+- [Derive Sample Size Formula](#derive-sample-size-formula)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -325,3 +326,7 @@ center + 1.960 * standard deviation<br>
 **For a normal dist’n, the middle 99% is bounded by<br>**
 center – 2.576 * standard deviation<br>
 center + 2.576 * standard deviation<br>
+
+### Derive Sample Size Formula
+Standard deviation: mean the standard deviation of the data.<br>
+Standard error: mean the standard deviation of the sampling distribution.<br>
