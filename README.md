@@ -330,3 +330,5 @@ center + 2.576 * standard deviation<br>
 ### Derive Sample Size Formula
 Standard deviation: mean the standard deviation of the data.<br>
 Standard error: mean the standard deviation of the sampling distribution.<br>
+
+16/76
