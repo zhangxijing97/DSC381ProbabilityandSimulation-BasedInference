@@ -346,3 +346,7 @@ p = estimated proportion of the population (if unknown, use 0.5 for the most con
 E = margin of error<br>
 
 n = ((2.170/0.036)^2)*(0.5)(1-0.5) = 908.353<br>
+
+### Problem 12
+Same question as in the previous problem, but assume they had a reason to believe the proportion is fairly close to 7%. How many light bulbs must they test?<br>
+n = ((2.170/0.036)^2)*(0.07)(1-0.07) = 236.5350<br>
