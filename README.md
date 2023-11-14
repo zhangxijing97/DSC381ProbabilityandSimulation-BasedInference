@@ -14,6 +14,7 @@
 - [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
 - [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
 - [Derive Sample Size Formula](#derive-sample-size-formula)
+- [HW 10 Solutions](#hw-10-solutions)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -331,4 +332,13 @@ center + 2.576 * standard deviation<br>
 Standard deviation: mean the standard deviation of the data.<br>
 Standard error: mean the standard deviation of the sampling distribution.<br>
 
-16/76
+
+## HW 10 Solutions
+### Problem 11
+The manufacturers are interested in estimating the percentage of defective light bulbs coming from a certain process. They want a 97% confidence interval with a margin of error of 3.6%. How many light bulbs must they test?<br>
+n = ((Z/E)^2)*p*(1-p)<br>
+n = required sample size<br>
+Z = Z-score (corresponding to the desired confidence level, e.g., 1.96 for a 95% confidence level)<br>
+p = estimated proportion of the population (if unknown, use 0.5 for the most conservative estimate)<br>
+E = margin of error<br>
+n = ((2.170/0.036)^2)*(0.5)(1-0.5) = 908.353<br>
