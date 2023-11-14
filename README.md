@@ -315,6 +315,10 @@ Example: Roll the dice multiple times to get the sum of multiple results<br>
 http://visualize.tlok.org/intro-stat/central_limit.php
 ![Alt Text](Image/Chapter-11-Image-4.png)
 
+### Central Limit Theorem Formula Sheets
+**Theoretical Sampling Distribution:** The term "theoretical" emphasizes that this distribution is based on mathematical principles and assumptions about the population.<br>
+**Test Statistic:** The test statistic is a numerical summary of the information in a sample that is used to make inferences about a population parameter.<br>
+
 ### Confidence Interval z Star Scores
 **For a normal dist’n, the middle 90% is bounded by<br>**
 center – 1.645 * standard deviation<br>
