@@ -355,6 +355,10 @@ n = ((2.170/0.036)^2)*(0.07)(1-0.07) = 236.5350<br>
 An airline has a regular flight between two cities. From a previous study, we estimate the standard deviation of the flight times to be 8.34 minutes. We want a 90% confidence interval for the average flight time with a margin of error of 2.5 minutes. How many flights must they include in the study to find that confidence interval?<br>
 n = (1.645*8.34/2.5)^2 =  30.115  which means we need 31<br>
 
+### Problem 14
+Is the design of this study appropriate to provide evidence about causality?<br>
+The statement of the problem said that the subjects were randomly assigned. So Yes.<br>
+
 ### Problem 15
 Carry out a simulation procedure and report the p-value.<br>
 ![Alt Text](Image/HW-4-Solutions-Problem-8.png)
