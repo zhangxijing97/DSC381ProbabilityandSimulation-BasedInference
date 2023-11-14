@@ -350,3 +350,17 @@ n = ((2.170/0.036)^2)*(0.5)(1-0.5) = 908.353<br>
 ### Problem 12
 Same question as in the previous problem, but assume they had a reason to believe the proportion is fairly close to 7%. How many light bulbs must they test?<br>
 n = ((2.170/0.036)^2)*(0.07)(1-0.07) = 236.5350<br>
+
+### Problem 13
+An airline has a regular flight between two cities. From a previous study, we estimate the standard deviation of the flight times to be 8.34 minutes. We want a 90% confidence interval for the average flight time with a margin of error of 2.5 minutes. How many flights must they include in the study to find that confidence interval?<br>
+n = (1.645*8.34/2.5)^2 =  30.115  which means we need 31<br>
+
+### Problem 15
+Carry out a simulation procedure and report the p-value.<br>
+![Alt Text](Image/HW-4-Solutions-Problem-8.png)
+Hypothesis test for the difference of two independent means.<br>
+Let mu_T - mu_P = difference in mean between the sample who drank tea and those who did not drink tea.<br>
+Ho: mu_T - mu_C  = 0<br>
+Ha: mu_T - mu_C  >  0<br>
+Sample statistic: difference in the two sample means = 17.12<br>
+Simulation: 1000 replications for five times: 0.026, 0.031, 0.022, 0.033,  0.021<br>
