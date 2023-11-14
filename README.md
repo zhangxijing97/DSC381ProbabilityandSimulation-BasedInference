@@ -368,3 +368,11 @@ Ho: mu_T - mu_C  = 0<br>
 Ha: mu_T - mu_C  >  0<br>
 Sample statistic: difference in the two sample means = 17.12<br>
 Simulation: 1000 replications for five times: 0.026, 0.031, 0.022, 0.033,  0.021<br>
+
+### Problem 17
+**They want to estimate the difference in the average age of married women and the average age of married men in marriages between a woman and a man. Which of these is the correct method of analysis?<br>**
+Confidence interval for a difference of independent means
+
+### Problem 18
+**From the data from the survey, they will estimate the average difference in the ages of the woman and man in a married couple in the population from which the sample is drawn. Which of these is the correct method of analysis?<br>**
+Confidence interval for the difference in means from matched pairs
