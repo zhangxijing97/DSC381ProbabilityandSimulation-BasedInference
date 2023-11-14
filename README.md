@@ -324,6 +324,10 @@ center + 1.645 * standard deviation<br>
 center – 1.960 * standard deviation<br>
 center + 1.960 * standard deviation<br>
 
+**For a normal dist’n, the middle 97% is bounded by<br>**
+center – 2.170 * standard deviation<br>
+center + 2.170 * standard deviation<br>
+
 **For a normal dist’n, the middle 99% is bounded by<br>**
 center – 2.576 * standard deviation<br>
 center + 2.576 * standard deviation<br>
@@ -331,7 +335,6 @@ center + 2.576 * standard deviation<br>
 ### Derive Sample Size Formula
 Standard deviation: mean the standard deviation of the data.<br>
 Standard error: mean the standard deviation of the sampling distribution.<br>
-
 
 ## HW 10 Solutions
 ### Problem 11
@@ -341,4 +344,5 @@ n = required sample size<br>
 Z = Z-score (corresponding to the desired confidence level, e.g., 1.96 for a 95% confidence level)<br>
 p = estimated proportion of the population (if unknown, use 0.5 for the most conservative estimate)<br>
 E = margin of error<br>
+
 n = ((2.170/0.036)^2)*(0.5)(1-0.5) = 908.353<br>
