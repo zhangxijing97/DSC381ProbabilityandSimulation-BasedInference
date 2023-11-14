@@ -12,6 +12,7 @@
 11. [Chapter 11 Inferential Statistics with Theoretical Distributions](#chapter-11-inferential-statistics-with-theoretical-distributions)
 - [General Idea of the Central Limit Theorem](#general-idea-of-the-central-limit-theorem)
 - [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
+- [Central Limit Theorem Formula Sheets](#central-limit-theorem-formula-sheets)
 - [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
 - [Derive Sample Size Formula](#derive-sample-size-formula)
 - [HW 10 Solutions](#hw-10-solutions)
@@ -317,6 +318,7 @@ http://visualize.tlok.org/intro-stat/central_limit.php
 
 ### Central Limit Theorem Formula Sheets
 **Theoretical Sampling Distribution:** The term "theoretical" emphasizes that this distribution is based on mathematical principles and assumptions about the population.<br>
+
 **Test Statistic:** The test statistic is a numerical summary of the information in a sample that is used to make inferences about a population parameter.<br>
 
 ### Confidence Interval z Star Scores
