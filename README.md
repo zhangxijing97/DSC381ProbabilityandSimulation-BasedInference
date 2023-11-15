@@ -400,7 +400,7 @@ When next October is completed, I will be interested in testing the claim that:<
 Ho: Next October’s proportions were consistent with the previous October’s proportions<br>
 Ha: Some of the proportions are not consistent with last year’s claim.<br>
 
-| Dataset A                                 |
+| Dataset A           |                     |
 |---------------------|---------------------|
 | Vanilla             | 60                  |
 | Chocolate           | 100                 |
