@@ -384,6 +384,4 @@ Confidence interval for a difference of independent means
 **From the data from the survey, they will estimate the average difference in the ages of the woman and man in a married couple in the population from which the sample is drawn. Which of these is the correct method of analysis?<br>**
 Confidence interval for the difference in means from matched pairs
 
-<!-- ## 11.7 Goodness of Fit Test -->
-11.7 Goodness of Fit Test {##11.7-goodness-of-fit-test}
-test<br>
+## 11.7 Goodness of Fit Test
