@@ -13,7 +13,7 @@
 - [General Idea of the Central Limit Theorem](#general-idea-of-the-central-limit-theorem)
 - [Central Limit Theorem Visualizations](#central-limit-theorem-visualizations)
 - [Central Limit Theorem Formula Sheets](#central-limit-theorem-formula-sheets)
-- [Confidence Interval z* Scores](#confidence-interval-z-star-scores)
+- [Confidence Interval z* Scores](#confidence-interval-z-scores)
 - [Derive Sample Size Formula](#derive-sample-size-formula)
 - [HW 10 Solutions](#hw-10-solutions)
 - [11.7 Goodness of Fit Test](#117-goodness-of-fit-test)
