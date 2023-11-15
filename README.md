@@ -16,7 +16,7 @@
 - [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
 - [Derive Sample Size Formula](#derive-sample-size-formula)
 - [HW 10 Solutions](#hw-10-solutions)
-- [11.7 Goodness of Fit Test](#11.7-goodness-of-fit-test)
+- [11.7 Goodness of Fit Test](#117-goodness-of-fit-test)
 
 ## Chapter 4 Introduction to Statistical Inference
 
