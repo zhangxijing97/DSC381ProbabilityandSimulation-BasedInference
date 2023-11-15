@@ -389,12 +389,5 @@ Confidence interval for the difference in means from matched pairs
 (Observed - Expected)^2/(Expected) = (Observed - Expected)/(Expected)*(Observed - Expected)<br>
 Note: get proportions first, and know how many counts there were.<br>
 
-To calculate the test statistic (\(t\)), use the following formula:
-
-\[ t = \frac{{\bar{x} - \mu_0}}{{s/\sqrt{n}}} \]
-
-Where:
-- \(\bar{x}\) is the sample mean.
-- \(\mu_0\) is the hypothesized population mean.
-- \(s\) is the sample standard deviation.
-- \(n\) is the sample size.
+**Here’s the formula for the test statistic:<br>**
+X^2 = Σ(Observed - Expected)^2/(Expected)
