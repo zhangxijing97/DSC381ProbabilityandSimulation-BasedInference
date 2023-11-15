@@ -391,3 +391,9 @@ Note: get proportions first, and know how many counts there were.<br>
 
 **Here’s the formula for the test statistic:<br>**
 X^2 = Σ(Observed - Expected)^2/(Expected)
+
+**Example: Ice cream sales in October<br>**
+Sell three flavors of ice cream: vanilla, chocolate, and strawberry. Last October’s data showed that the proportions of the flavors I sold were 0.30, 0.50, and 0.20 (in that order.) When next October is completed, I will be interested in testing the claim that:<br>
+next October’s proportions were consistent with the previous October’s proportions<br>
+versus<br>
+the alternative that some of the proportions are not consistent with last year’s claim.<br>
