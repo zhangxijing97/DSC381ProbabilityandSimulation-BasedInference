@@ -403,3 +403,4 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 **Degrees of freedom:** 3(number of cells) - 1 = 2<br>
 ![Alt Text](Image/Chapter-12-Image-1.png)
 ![Alt Text](Image/Chapter-12-Image-2.png)
+![Alt Text](Image/Chapter-12-Image-3.png)
