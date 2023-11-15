@@ -400,6 +400,8 @@ When next October is completed, I will be interested in testing the claim that:<
 Ho: Next October’s proportions were consistent with the previous October’s proportions<br>
 Ha: Some of the proportions are not consistent with last year’s claim.<br>
 
+**Degrees of freedom:** 3(number of cells) - 1 = 2<br>
+
 | Dataset A           |                     | Dataset B           |                     | Dataset C           |                     |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | Vanilla             | 60                  | Vanilla             | 70                  | Vanilla             | 76                  |
@@ -407,7 +409,11 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | Strawberry          | 40                  | Strawberry          | 35                  | Strawberry          | 37                  |
 | Total               | 200                 | Total               | 200                 | Total               | 200                 |
 
-**Degrees of freedom:** 3(number of cells) - 1 = 2<br>
+**Dataset B: p-value from theoretical dist’n:<br>**
 ![Alt Text](Image/Chapter-12-Image-1.png)
+
+**Dataset B: p-value from Randomization Dist’n:<br>**
 ![Alt Text](Image/Chapter-12-Image-2.png)
+
+**Dataset C: p-value from Randomization Dist’n:<br>**
 ![Alt Text](Image/Chapter-12-Image-3.png)
