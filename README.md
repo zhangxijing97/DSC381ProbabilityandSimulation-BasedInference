@@ -409,11 +409,19 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | Strawberry          | 40                  | Strawberry          | 35                  | Strawberry          | 37                  |
 | Total               | 200                 | Total               | 200                 | Total               | 200                 |
 
-**Dataset B: p-value from theoretical dist’n:<br>**
+| Dataset B: p-value from theoretical dist’n    | Dataset B: p-value from Randomization Dist’n  |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-12-Image-1.png)     | ![Alt Text](Image/Chapter-12-Image-2.png)     |
+
+| Dataset C: p-value from theoretical dist’n    | Dataset C: p-value from Randomization Dist’n  |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-12-Image-3.png)     | ![Alt Text](Image/Chapter-12-Image-4.png)     |
+
+<!-- **Dataset B: p-value from theoretical dist’n:<br>**
 ![Alt Text](Image/Chapter-12-Image-1.png)
 
 **Dataset B: p-value from Randomization Dist’n:<br>**
 ![Alt Text](Image/Chapter-12-Image-2.png)
 
 **Dataset C: p-value from Randomization Dist’n:<br>**
-![Alt Text](Image/Chapter-12-Image-3.png)
+![Alt Text](Image/Chapter-12-Image-3.png) -->
