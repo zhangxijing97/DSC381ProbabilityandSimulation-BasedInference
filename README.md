@@ -385,3 +385,4 @@ Confidence interval for a difference of independent means
 Confidence interval for the difference in means from matched pairs
 
 ## 11.7 Goodness of Fit Test
+Compute the Test Statistic for Chi-Square: (Observed - Expected)^2/(Expected) = (Observed - Expected)/(Expected)*(Observed - Expected)<br>
