@@ -16,6 +16,7 @@
 - [Confidence Interval z Star Scores](#confidence-interval-z-star-scores)
 - [Derive Sample Size Formula](#derive-sample-size-formula)
 - [HW 10 Solutions](#hw-10-solutions)
+- [11.7 Goodness of Fit Test](#goodness-of-fit-test)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -339,8 +340,8 @@ center – 2.576 * standard deviation<br>
 center + 2.576 * standard deviation<br>
 
 ### Derive Sample Size Formula
-Standard deviation: mean the standard deviation of the data.<br>
-Standard error: mean the standard deviation of the sampling distribution.<br>
+Standard deviation: standard deviation of the data.<br>
+Standard error: standard deviation of the sampling distribution.<br>
 
 ## HW 10 Solutions
 ### Problem 11
@@ -382,3 +383,6 @@ Confidence interval for a difference of independent means
 ### Problem 18
 **From the data from the survey, they will estimate the average difference in the ages of the woman and man in a married couple in the population from which the sample is drawn. Which of these is the correct method of analysis?<br>**
 Confidence interval for the difference in means from matched pairs
+
+## 11.7 Goodness of Fit Test
+test<br>
