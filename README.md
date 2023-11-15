@@ -400,6 +400,13 @@ When next October is completed, I will be interested in testing the claim that:<
 Ho: Next October’s proportions were consistent with the previous October’s proportions<br>
 Ha: Some of the proportions are not consistent with last year’s claim.<br>
 
+| Dataset A                                 |
+|---------------------|---------------------|
+| Vanilla             | 60                  |
+| Chocolate           | 100                 |
+| Strawberry          | 40                  |
+| Total               | 200                 |
+
 **Degrees of freedom:** 3(number of cells) - 1 = 2<br>
 ![Alt Text](Image/Chapter-12-Image-1.png)
 ![Alt Text](Image/Chapter-12-Image-2.png)
