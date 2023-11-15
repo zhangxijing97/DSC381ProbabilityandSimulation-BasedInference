@@ -398,3 +398,4 @@ Last October, I sold were 0.30, 0.50, and 0.20 (in that order.)<br>
 When next October is completed, I will be interested in testing the claim that:<br>
 Ho: Next October’s proportions were consistent with the previous October’s proportions<br>
 Ha: Some of the proportions are not consistent with last year’s claim.<br>
+**Degrees of freedom:<br>** 3(number of cells) - 1 = 2
