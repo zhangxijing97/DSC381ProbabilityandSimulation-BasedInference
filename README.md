@@ -385,4 +385,5 @@ Confidence interval for a difference of independent means
 Confidence interval for the difference in means from matched pairs
 
 ## 11.7 Goodness of Fit Test
+11.7 Goodness of Fit Test {##11.7-goodness-of-fit-test}
 test<br>
