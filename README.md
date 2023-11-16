@@ -425,14 +425,12 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | Chocolate           | 100                 | 50                  | 150                 |
 | Strawberry          | 40                  | 20                  | 60                  |
 | Total               | 200                 | 100                 | 300                 |
-
 | Dataset B           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|
 | Vanilla             | 61                  | 29                  | 90                  |
 | Chocolate           | 98                  | 52                  | 150                 |
 | Strawberry          | 41                  | 19                  | 60                  |
 | Total               | 200                 | 100                 | 300                 |
-
 | Dataset C           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|
 | Vanilla             | 51                  | 39                  | 90                  |
