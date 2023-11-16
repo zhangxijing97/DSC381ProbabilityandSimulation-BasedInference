@@ -426,16 +426,11 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | Strawberry          | 40                  | 20                  | 60                  | Strawberry          | 41                  | 19                  | 60                  | Strawberry          | 42                  | 18                  | 60                  |
 | Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 |
 
-<!-- | Dataset B           | East                | West                | Total               |
-|---------------------|---------------------|---------------------|---------------------|
-| Vanilla             | 61                  | 29                  | 90                  |
-| Chocolate           | 98                  | 52                  | 150                 |
-| Strawberry          | 41                  | 19                  | 60                  |
-| Total               | 200                 | 100                 | 300                 | -->
+Ho: Location and the flavors of ice cream sold are not related.<br>
+Ha: Location and the flavors of ice cream sold are related.<br>
 
-<!-- | Dataset C           | East                | West                | Total               |
-|---------------------|---------------------|---------------------|---------------------|
-| Vanilla             | 51                  | 39                  | 90                  |
-| Chocolate           | 107                 | 43                  | 150                 |
-| Strawberry          | 42                  | 18                  | 60                  |
-| Total               | 200                 | 100                 | 300                 | -->
+Ho: Location and the flavors of ice cream are independent.<br>
+Ha: Location and the flavors of ice cream are not independent.<br>
+
+Ho: Location is not associated with flavors of ice cream sold.<br>
+Ha: Location is associated with flavors of ice cream sold.<br>
