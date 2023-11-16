@@ -17,6 +17,7 @@
 - [Derive Sample Size Formula](#derive-sample-size-formula)
 - [HW 10 Solutions](#hw-10-solutions)
 - [11.7 Goodness of Fit Test](#117-goodness-of-fit-test)
+- [11.8 Test of Association](#118-test-of-association)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -417,11 +418,4 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-12-Image-3.png)     | ![Alt Text](Image/Chapter-12-Image-4.png)     |
 
-<!-- **Dataset B: p-value from theoretical dist’n:<br>**
-![Alt Text](Image/Chapter-12-Image-1.png)
-
-**Dataset B: p-value from Randomization Dist’n:<br>**
-![Alt Text](Image/Chapter-12-Image-2.png)
-
-**Dataset C: p-value from Randomization Dist’n:<br>**
-![Alt Text](Image/Chapter-12-Image-3.png) -->
+## 11.8 Test of Association
