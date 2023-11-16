@@ -18,6 +18,7 @@
 - [HW 10 Solutions](#hw-10-solutions)
 - [11.7 Goodness of Fit Test](#117-goodness-of-fit-test)
 - [11.8 Test of Association](#118-test-of-association)
+- [11.10 ANOVA for Means: F Test](#1110-ANOVA-for-means-f-test)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -443,3 +444,5 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | Dataset C Randomization test output           | Dataset C output Theoretical Dist’n           |
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
+
+## 11.10 ANOVA for Means: F Test
