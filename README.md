@@ -436,8 +436,10 @@ Ha: Location and the flavors of ice cream are not independent.<br>
 Ho: Location is not associated with flavors of ice cream sold.<br>
 Ha: Location is associated with flavors of ice cream sold.<br>
 
-Degrees of freedom:<br>
-there are only two “free” cells here<br>
+Degrees of freedom: there are only two “free” cells here<br>
 r = number of rows<br>
 c = number of columns<br>
 df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
+| Dataset C Randomization test output           | Dataset C output Theoretical Dist’n           |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
