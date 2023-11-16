@@ -419,3 +419,10 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | ![Alt Text](Image/Chapter-12-Image-3.png)     | ![Alt Text](Image/Chapter-12-Image-4.png)     |
 
 ## 11.8 Test of Association
+| Dataset A           |                     |                     |                     |
+|                     | East                | West                | Total               |
+|---------------------|---------------------|---------------------|---------------------|
+| Vanilla             | 60                  | 30                  | 90                  |
+| Chocolate           | 100                 | 50                  | 150                 |
+| Strawberry          | 40                  | 20                  | 60                  |
+| Total               | 200                 | 100                 | 300                 |
