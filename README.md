@@ -401,7 +401,8 @@ When next October is completed, I will be interested in testing the claim that:<
 Ho: Next October’s proportions were consistent with the previous October’s proportions<br>
 Ha: Some of the proportions are not consistent with last year’s claim.<br>
 
-**Degrees of freedom:** 3(number of cells) - 1 = 2<br>
+X^2 =(10^)/60 + (5^2)/100 + (5^2)/40 = 2.54167<br>
+Degrees of freedom: 3(number of cells) - 1 = 2<br>
 
 | Dataset A           |                     | Dataset B           |                     | Dataset C           |                     |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -434,3 +435,9 @@ Ha: Location and the flavors of ice cream are not independent.<br>
 
 Ho: Location is not associated with flavors of ice cream sold.<br>
 Ha: Location is associated with flavors of ice cream sold.<br>
+
+Degrees of freedom:<br>
+there are only two “free” cells here<br>
+r = number of rows<br>
+c = number of columns<br>
+df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
