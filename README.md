@@ -419,12 +419,12 @@ Ha: Some of the proportions are not consistent with last year’s claim.<br>
 | ![Alt Text](Image/Chapter-12-Image-3.png)     | ![Alt Text](Image/Chapter-12-Image-4.png)     |
 
 ## 11.8 Test of Association
-| Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               |
-|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| Vanilla             | 60                  | 30                  | 90                  | Vanilla             | 61                  | 29                  | 90                  |
-| Chocolate           | 100                 | 50                  | 150                 | Chocolate           | 98                  | 52                  | 150                 |
-| Strawberry          | 40                  | 20                  | 60                  | Strawberry          | 41                  | 19                  | 60                  |
-| Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 |
+| Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               | Dataset C           | East                | West                | Total               |
+|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Vanilla             | 60                  | 30                  | 90                  | Vanilla             | 61                  | 29                  | 90                  | Vanilla             | 51                  | 39                  | 90                  |
+| Chocolate           | 100                 | 50                  | 150                 | Chocolate           | 98                  | 52                  | 150                 | Chocolate           | 107                 | 43                  | 150                 |
+| Strawberry          | 40                  | 20                  | 60                  | Strawberry          | 41                  | 19                  | 60                  | Strawberry          | 42                  | 18                  | 60                  |
+| Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 |
 
 <!-- | Dataset B           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|
