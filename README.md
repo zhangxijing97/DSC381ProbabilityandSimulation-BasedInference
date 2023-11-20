@@ -448,7 +448,13 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
 
 ## 11.10 ANOVA for Means: F Test
-**ANOVA: Analysis of Variancebr>**
+**Data description for our problem<br>**
+LightatNight4Weeks<br>
+Description: Data from an experiment with mice having different nighttime light conditions.<br>
+Format: A dataset with 27 observations on the following 9 variables.<br>
+Light DM = dim light at night, LD = dark at night, or LL = bright light at night<br>
+
+**ANOVA: Analysis of Variance<br>**
 SSTotal: Sum of Squares of Total(Variability of all data)<br>
 SSG: Sum of Squares of Groups(Variability BETWEEN groups)<br>
 SSE: Sum of Squares of error(Variability WITHIN the groups)<br>
