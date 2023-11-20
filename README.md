@@ -416,11 +416,11 @@ Degrees of freedom: 3(number of cells) - 1 = 2<br>
 
 | Dataset B: p-value from theoretical dist’n    | Dataset B: p-value from Randomization Dist’n  |
 |-----------------------------------------------|-----------------------------------------------|
-| ![Alt Text](Image/Chapter-12-Image-1.png)     | ![Alt Text](Image/Chapter-12-Image-2.png)     |
+| ![Alt Text](Image/Chapter-11-Image-5.png)     | ![Alt Text](Image/Chapter-11-Image-6.png)     |
 
 | Dataset C: p-value from theoretical dist’n    | Dataset C: p-value from Randomization Dist’n  |
 |-----------------------------------------------|-----------------------------------------------|
-| ![Alt Text](Image/Chapter-12-Image-3.png)     | ![Alt Text](Image/Chapter-12-Image-4.png)     |
+| ![Alt Text](Image/Chapter-11-Image-7.png)     | ![Alt Text](Image/Chapter-11-Image-8.png)     |
 
 ## 11.8 Test of Association
 | Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               | Dataset C           | East                | West                | Total               |
@@ -445,7 +445,7 @@ c = number of columns<br>
 df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | Dataset C Randomization test output           | Dataset C output Theoretical Dist’n           |
 |-----------------------------------------------|-----------------------------------------------|
-| ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
+| ![Alt Text](Image/Chapter-11-Image-9.png)     | ![Alt Text](Image/Chapter-11-Image-10.png)    |
 
 ## 11.10 ANOVA for Means: F Test
 **Data description for our problem<br>**
@@ -471,7 +471,22 @@ SSTotal = SSG + SSE<br>
 
 **From SS to MS to F<br>**
 Divide by the degrees of freedom to obtain “Mean Squared Error” of each.<br>
-MSE: Mean Squared Error<br>
+MSG = Mean Squared Error of groups<br>
+MSE: Mean Squared Error within the groups<br>
+k = 3 (number of the groups)<br>
+n = 27 (number of the observations within the groups)<br>
+
 MSG = SSG/(k-1)<br>
 MSE = SSE/(n-k)<br>
-F statistic = MSG/MSE<br>
+F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
+if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>
+If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<br>
+|                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-11-Image-11.png)    | ![Alt Text](Image/Chapter-11-Image-12.png)    |
+
+Conditions for using a theoretical distribution:<br>
+• To use the theoretical distribution, we need to have sample sizes large enough for the Central Limit Theorem to give us the normality we need<br>
+OR<br>
+• the individual populations should be normally distributed.<br>
+• Also, we need the sample standard deviations to be close to equal (the largest is no more than twice the smallest.) From our output, that is 3.0/1.9 < 2. So that’s good.<br>
