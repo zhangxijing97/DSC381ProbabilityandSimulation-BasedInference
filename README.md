@@ -446,3 +446,16 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
 
 ## 11.10 ANOVA for Means: F Test
+ANOVA: Analysis of Variance<br>
+SSTotal: Sum of Squares of Total<br>
+SSG: Sum of Squares of Groups<br>
+SSE: Sum of Squares of error<br>
+
+Var(X) = E{(X − EX)^2}
+x̄ = mean of all observations<br>
+x̄i = mean of observations in the ith group<br>
+SSTotal = Σ(x - x̄)^2<br>
+SSGroups = Σni(x̄i - x̄)^2<br>
+SSError = Σ(x - x̄i)^2<br>
+
+SSTotal = SSG + SSE<br>
