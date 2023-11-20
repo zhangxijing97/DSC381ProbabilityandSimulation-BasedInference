@@ -19,6 +19,7 @@
 - [11.7 Goodness of Fit Test](#117-goodness-of-fit-test)
 - [11.8 Test of Association](#118-test-of-association)
 - [11.10 ANOVA for Means: F Test](#1110-ANOVA-for-means-f-test)
+- [HW 11 Solutions](#hw-11-solutions)
 
 ## Chapter 4 Introduction to Statistical Inference
 
@@ -491,3 +492,9 @@ Conditions for using a theoretical distribution:<br>
 OR<br>
 • the individual populations should be normally distributed.<br>
 • Also, we need the sample standard deviations to be close to equal (the largest is no more than twice the smallest.) From our output, that is 3.0/1.9 < 2. So that’s good.<br>
+
+## HW 10 Solutions
+### Problem 1
+**If you were to carry out the procedure here, are the conditions for using a theoretical distribution strictly met, according to our Statistical Formula document?<br>**
+MustangPrice: Find a 90% confidence interval for the population mean price.<br>
+The sample size is only 25 so I think we can't reliably use a theoretical distribution.
