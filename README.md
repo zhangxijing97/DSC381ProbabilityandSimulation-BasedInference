@@ -450,6 +450,7 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 ## 11.10 ANOVA for Means: F Test
 **Data description for our problem<br>**
 LightatNight4Weeks<br>
+https://github.com/zhangxijing97/DSC381ProbabilityandSimulation-BasedInference/blob/main/Datasets/LightatNight4Weeks.csv<br>
 Description: Data from an experiment with mice having different nighttime light conditions.<br>
 Format: A dataset with 27 observations on the following 9 variables.<br>
 Light DM = dim light at night, LD = dark at night, or LL = bright light at night<br>
