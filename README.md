@@ -448,7 +448,7 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | ![Alt Text](Image/Chapter-12-Image-5.png)     | ![Alt Text](Image/Chapter-12-Image-6.png)     |
 
 ## 11.10 ANOVA for Means: F Test
-ANOVA: Analysis of Variance<br>
+**ANOVA: Analysis of Variancebr>**
 SSTotal: Sum of Squares of Total(Variability of all data)<br>
 SSG: Sum of Squares of Groups(Variability BETWEEN groups)<br>
 SSE: Sum of Squares of error(Variability WITHIN the groups)<br>
@@ -461,3 +461,10 @@ SSGroups = Σni(x̄i - x̄)^2<br>
 SSError = Σ(x - x̄i)^2<br>
 
 SSTotal = SSG + SSE<br>
+
+**From SS to MS to F<br>**
+Divide by the degrees of freedom to obtain “Mean Squared Error” of each.<br>
+MSE: Mean Squared Error<br>
+MSG = SSG/(k-1)<br>
+MSE = SSE/(n-k)<br>
+F statistic = MSG/MSE<br>
