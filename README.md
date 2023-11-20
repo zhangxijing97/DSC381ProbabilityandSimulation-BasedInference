@@ -479,6 +479,7 @@ n = 27 (number of the observations within the groups)<br>
 MSG = SSG/(k-1)<br>
 MSE = SSE/(n-k)<br>
 F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
+Note: The term "F statistic" is named after Sir Ronald A. Fisher<br>
 if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>
 If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<br>
 |                                               |                                               |
