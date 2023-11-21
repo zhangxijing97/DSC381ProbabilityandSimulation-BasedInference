@@ -540,8 +540,10 @@ NO, Using the value of p in Ho, np = 200*0.04 = 8 which is not greater than or e
 ### Problem 7
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the ExerciseHours dataset, test the claim that the population mean exercise hours differs for males and females.<br>
+
 |                                                              |                                               |
 |--------------------------------------------------------------|-----------------------------------------------|
 | Group1(M), n1 = 20, x̄1 = 12.4, Group2(F), n2 = 30, x̄2 = 12.4 | ![Alt Text](HW-11-Solutions-Problem-7.png)    |
+
 Conditions needed(Inference on two means): In EACH group, Dist’n normal or CLT applies, meaning n >= 30 approximately.<br>
 NO, n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
