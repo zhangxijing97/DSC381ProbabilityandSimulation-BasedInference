@@ -554,3 +554,13 @@ In the TrafficFlow dataset, we want to decide how much of a difference in delay 
 
 Conditions needed(Inference on the mean of differences from matched pairs study): Dist’n of differences normal OR CLT applies, meaning n >= 30 approximately, where n is number of pairs.<br>
 NO, The set of differences is the only relevant column of data to check.  The sample size is less than 30 so this does not strictly meet the conditions.<br>
+
+### Problem 9
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
+In the CocaineTreatment dataset, test whether the two variables are associated.
+
+CocaineTreatment: A dataset with 24 observations on Desipramine, 24 observations on Lithium, 24 observations on Placebo.<br>
+Conditions needed(Test of association of two categorical variables): Each expected count is at least 5.<br>
+|                                                              |                                                  |
+|--------------------------------------------------------------|--------------------------------------------------|
+| Expected Count of No for Each Groups = 24*(24/72), Expected Count of No for Each Groups = 24*(44/72) | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
