@@ -563,4 +563,4 @@ CocaineTreatment: A dataset with 24 observations on Desipramine, 24 observations
 Conditions needed(Test of association of two categorical variables): Each expected count is at least 5.<br>
 |                                                              |                                                  |
 |--------------------------------------------------------------|--------------------------------------------------|
-| Expected Count of No for Each Groups = 24*(24/72), Expected Count of No for Each Groups = 24*(44/72) | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
+| Expected Count of No for Each Groups = 24*(24/72) = 8, Expected Count of Yes for Each Groups = 24*(44/72) = 16 | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
