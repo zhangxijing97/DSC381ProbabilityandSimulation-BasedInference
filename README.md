@@ -529,4 +529,4 @@ YES, np = 12 >= 10, n(1-p) = 188 >= 10, Both 12 and 200-12 are greater than or e
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant B, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.06. In a sample of size 200, we find 14 defective items.<br>
 
-YES, n*(value of p in the null hypothesis) = 200*0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200*0.94 = 188 is greater than or equal to 10.<br>
+YES, n*(value of p in the null hypothesis) = 200×0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200×0.94 = 188 is greater than or equal to 10.<br>
