@@ -493,17 +493,27 @@ OR<br>
 • the individual populations should be normally distributed.<br>
 • Also, we need the sample standard deviations to be close to equal (the largest is no more than twice the smallest.) From our output, that is 3.0/1.9 < 2. So that’s good.<br>
 
-## HW 10 Solutions
+## HW 11 Solutions
 ### Problem 1
 **If you were to carry out the procedure here, are the conditions for using a theoretical distribution strictly met, according to our Statistical Formula document?<br>**
 MustangPrice: Find a 90% confidence interval for the population mean price.<br>
 
 MustangPrice: A dataset with 25 observations on the 3 variables.<br>
-NO    Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
+NO, Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
 
 ### Problem 2
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 CommuteAtlanta: Test a claim about whether the population mean commute time is less than 30 minutes.<br>
 
 CommuteAtlanta: A dataset with 500 observations on the 4 variables.<br>
-YES    n = 500 which is greater than or equal to 30.<br>
+YES, n = 500 which is greater than or equal to 30.<br>
+
+### Problem 3
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
+In ICUAdmissions, Find a 90% confidence interval for the difference between the proportion of Cancer patients who entered ICU with an infection and the proportion of patients without Cancer who entered the ICU with an infection. (Look at the Data Description file to see how to interpret the coding for the variables Cancer and Infection.)<br>
+
+Conditions needed(Inference on two proportions): In EACH group np >=10 AND n(1− p)>=10<br>
+group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br>
+group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>
+
+NO, The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
