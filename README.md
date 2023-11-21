@@ -498,12 +498,12 @@ OR<br>
 **If you were to carry out the procedure here, are the conditions for using a theoretical distribution strictly met, according to our Statistical Formula document?<br>**
 MustangPrice: Find a 90% confidence interval for the population mean price.<br>
 
-MustangPrice: A dataset with 25 observations on the following 3 variables.<br>
+MustangPrice: A dataset with 25 observations on the 3 variables.<br>
 NO    Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
 
 ### Problem 2
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 CommuteAtlanta: Test a claim about whether the population mean commute time is less than 30 minutes.<br>
 
-CommuteAtlanta: A dataset with 25 observations on the following 4 variables.<br>
+CommuteAtlanta: A dataset with 500 observations on the 4 variables.<br>
 YES    n = 500 which is greater than or equal to 30.<br>
