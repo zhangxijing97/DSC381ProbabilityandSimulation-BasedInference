@@ -550,4 +550,11 @@ NO, n1=20, n2=30, One of the sample sizes is too small to strictly meet the cond
 
 ### Problem 8
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
-In the TrafficFlow dataset, we want to decide how much of a difference in delay time there is between two different scenarios. We have the results of one experiment that simulated busses moving along a street and recorded the delay time (in seconds) for both a fixed-time system for traffic lights and a flexible system of traffic lights. (Flexible time means that sensors monitor the flow of traffic and use that to adjust the timing of the lights.) The simulation was repeated under both conditions for a total of 24 trials. The data is paired because we have two values for each simulation run. (Reference: Lock text.)
+In the TrafficFlow dataset, we want to decide how much of a difference in delay time there is between two different scenarios. We have the results of one experiment that simulated busses moving along a street and recorded the delay time (in seconds) for both a fixed-time system for traffic lights and a flexible system of traffic lights. (Flexible time means that sensors monitor the flow of traffic and use that to adjust the timing of the lights.) The simulation was repeated under both conditions for a total of 24 trials. The data is paired because we have two values for each simulation run. (Reference: Lock text.)<br>
+
+Conditions needed(Inference on the mean of differences from matched pairs study):<br>
+Dist’n of differences normal<br>
+OR<br>
+CLT applies, meaning n >= 30 approximately, where n is number of pairs.<br>
+Delay time (in seconds) for both a fixed-time system for traffic lights and a flexible system of traffic lights.<br>
+NO, The set of differences is the only relevant column of data to check.  The sample size is less than 30 so this does not strictly meet the conditions.<br>
