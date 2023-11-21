@@ -495,7 +495,7 @@ OR<br>
 
 ## HW 11 Solutions
 ### Problem 1
-**If you were to carry out the procedure here, are the conditions for using a theoretical distribution strictly met, according to our Statistical Formula document?<br>**
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 MustangPrice: Find a 90% confidence interval for the population mean price.<br>
 
 MustangPrice: A dataset with 25 observations on the 3 variables.<br>
@@ -536,3 +536,12 @@ YES, n*(value of p in the null hypothesis) = 200×0.06 = 12 which is greater tha
 In manufacturing plant C, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.04. In a sample of size 200, we find 12 defective items.<br>
 
 NO, Using the value of p in Ho, np = 200*0.04 = 8 which is not greater than or equal to 10.<br>
+
+### Problem 7
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
+In the ExerciseHours dataset, test the claim that the population mean exercise hours differs for males and females.<br>
+|                                                              |                                               |
+|--------------------------------------------------------------|-----------------------------------------------|
+| Group1(M), n1 = 20, x̄1 = 12.4, Group2(F), n2 = 30, x̄2 = 12.4 | ![Alt Text](HW-11-Solutions-Problem-7.png)    |
+Conditions needed(Inference on two means): In EACH group, Dist’n normal or CLT applies, meaning n >= 30 approximately.<br>
+NO, n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
