@@ -512,8 +512,21 @@ YES, n = 500 which is greater than or equal to 30.<br>
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In ICUAdmissions, Find a 90% confidence interval for the difference between the proportion of Cancer patients who entered ICU with an infection and the proportion of patients without Cancer who entered the ICU with an infection. (Look at the Data Description file to see how to interpret the coding for the variables Cancer and Infection.)<br>
 
-Conditions needed(Inference on two proportions): In EACH group np >=10 AND n(1− p)>=10<br>
+Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1−p) >= 10<br>
 group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br>
 group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>
 
 NO, The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
+
+### Problem 4
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
+In manufacturing plant A, we want to find a 95% confidence interval for the population proportion of defective items. In a sample of size 200, we find 12 defective items.
+
+Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1−p) >= 10<br>
+YES, np = 12 >= 10, n(1-p) = 188 >= 10, Both 12 and 200-12 are greater than or equal to 10.<br>
+
+### Problem 5
+**If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
+In manufacturing plant B, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.06. In a sample of size 200, we find 14 defective items.<br>
+
+YES, n*(value of p in the null hypothesis) = 200*0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200*0.94 = 188 is greater than or equal to 10.<br>
