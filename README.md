@@ -572,8 +572,20 @@ YES, Although one of the observed values is below 5, all all the expected counts
 In the RestaurantTips dataset, test whether the mean PercentTip for the servers are different.<br>
 
 Conditions needed(Analysis of Variance (ANOVA) for difference of means): In EACH group, Dist’n normal OR CLT applies, meaning n >= 30 and Variability is similar in all groups.<br>
-|                                         |                                                  |
-|-----------------------------------------|--------------------------------------------------|
+|                                         |                                                   |
+|-----------------------------------------|---------------------------------------------------|
 | Standard Deviation is 2.7, 1.9, and 2.8 | ![Alt Text](Image/HW-11-Solutions-Problem-10.png) |
 
 Yes, All the sample sizes are at least 30 and the largest standard deviation is less than 2 times the smallest standard deviation.<br>
+
+### Problem 11
+**Consider the FootballBrain dataset with its three categories: No football, football with no concussion, football with concussion.<br>**
+b. Investigate whether there is a difference in mean cognition between the two categories of football players.
+What to answer to be graded: Is the test in part b. ii. significant at the 5% significance level?
+
+|                                         |                                                   |
+|-----------------------------------------|---------------------------------------------------|
+| 0.050*2 = 0.100                         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
+
+Note: difference means that it can be bigger or smaller, so multiply it by 2
+NO, The p-value is approximately 0.11<br>
