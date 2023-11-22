@@ -587,5 +587,5 @@ What to answer to be graded: Is the test in part b. ii. significant at the 5% si
 |-----------------------------------------|---------------------------------------------------|
 | 0.050*2 = 0.100                         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
 
-Note: difference means that it can be bigger or smaller, so multiply it by 2
+Note: difference means that it can be bigger or smaller, so multiply it by 2<br>
 NO, The p-value is approximately 0.11<br>
