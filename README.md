@@ -574,6 +574,6 @@ In the RestaurantTips dataset, test whether the mean PercentTip for the servers 
 Conditions needed(Analysis of Variance (ANOVA) for difference of means): In EACH group, Dist’n normal OR CLT applies, meaning n >= 30 and Variability is similar in all groups.<br>
 |                                         |                                                  |
 |-----------------------------------------|--------------------------------------------------|
-| Standard Deviation is 2.7, 1.9, and 2.8 | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
+| Standard Deviation is 2.7, 1.9, and 2.8 | ![Alt Text](Image/HW-11-Solutions-Problem-10.png) |
 
 Yes, All the sample sizes are at least 30 and the largest standard deviation is less than 2 times the smallest standard deviation.<br>
