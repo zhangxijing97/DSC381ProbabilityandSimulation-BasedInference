@@ -600,3 +600,12 @@ answer this question “Which of the two different sets of data included in that
 4. Generate 1000 samples and read a right tale p-value for the calculated X^2 value.<br>
 
 Invoices. Very small p-value.<br>
+
+### Problem 13
+**In the RestaurantTips dataset, is there an association between the Day of the week and whether the bill was paid by a credit card or not? Do we reject the null hypothesis at the 10% significance level?<br>**
+
+|                                         |                                                   |
+|-----------------------------------------|---------------------------------------------------|
+| Chi-square Test for Association         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
+
+YES. The p-value =0.07<br>
