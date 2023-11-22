@@ -499,14 +499,14 @@ OR<br>
 MustangPrice: Find a 90% confidence interval for the population mean price.<br>
 
 MustangPrice: A dataset with 25 observations on the 3 variables.<br>
-NO, Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
+NO. Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
 
 ### Problem 2
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 CommuteAtlanta: Test a claim about whether the population mean commute time is less than 30 minutes.<br>
 
 CommuteAtlanta: A dataset with 500 observations on the 4 variables.<br>
-YES, n = 500 which is greater than or equal to 30.<br>
+YES. n = 500 which is greater than or equal to 30.<br>
 
 ### Problem 3
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
@@ -516,7 +516,7 @@ Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1�
 group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br>
 group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>
 
-NO, The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
+NO. The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
 
 ### Problem 4
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
@@ -529,13 +529,13 @@ YES, np = 12 >= 10, n(1-p) = 188 >= 10, Both 12 and 200-12 are greater than or e
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant B, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.06. In a sample of size 200, we find 14 defective items.<br>
 
-YES, n*(value of p in the null hypothesis) = 200×0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200×0.94 = 188 is greater than or equal to 10.<br>
+YES. n*(value of p in the null hypothesis) = 200×0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200×0.94 = 188 is greater than or equal to 10.<br>
 
 ### Problem 6
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant C, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.04. In a sample of size 200, we find 12 defective items.<br>
 
-NO, Using the value of p in Ho, np = 200*0.04 = 8 which is not greater than or equal to 10.<br>
+NO. Using the value of p in Ho, np = 200*0.04 = 8 which is not greater than or equal to 10.<br>
 
 ### Problem 7
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
@@ -546,14 +546,14 @@ In the ExerciseHours dataset, test the claim that the population mean exercise h
 | Group1(M), n1 = 20, x̄1 = 12.4, Group2(F), n2 = 30, x̄2 = 12.4 | ![Alt Text](Image/HW-11-Solutions-Problem-7.png) |
 
 Conditions needed(Inference on two means): In EACH group, Dist’n normal or CLT applies, meaning n >= 30 approximately.<br>
-NO, n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
+NO. n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
 
 ### Problem 8
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the TrafficFlow dataset, we want to decide how much of a difference in delay time there is between two different scenarios. We have the results of one experiment that simulated busses moving along a street and recorded the delay time (in seconds) for both a fixed-time system for traffic lights and a flexible system of traffic lights. (Flexible time means that sensors monitor the flow of traffic and use that to adjust the timing of the lights.) The simulation was repeated under both conditions for a total of 24 trials. The data is paired because we have two values for each simulation run. (Reference: Lock text.)<br>
 
 Conditions needed(Inference on the mean of differences from matched pairs study): Dist’n of differences normal OR CLT applies, meaning n >= 30 approximately, where n is number of pairs.<br>
-NO, The set of differences is the only relevant column of data to check.  The sample size is less than 30 so this does not strictly meet the conditions.<br>
+NO. The set of differences is the only relevant column of data to check.  The sample size is less than 30 so this does not strictly meet the conditions.<br>
 
 ### Problem 9
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
@@ -565,7 +565,7 @@ Conditions needed(Test of association of two categorical variables): Each expect
 |--------------------------------------------------------------|--------------------------------------------------|
 | Expected Count of No for Each Groups = 24*(24/72) = 8, Expected Count of Yes for Each Groups = 24*(44/72) = 16 | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
 
-YES, Although one of the observed values is below 5, all all the expected counts are above 5.  This condition is only for the expected counts.<br>
+YES. Although one of the observed values is below 5, all all the expected counts are above 5.  This condition is only for the expected counts.<br>
 
 ### Problem 10
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
@@ -576,7 +576,7 @@ Conditions needed(Analysis of Variance (ANOVA) for difference of means): In EACH
 |-----------------------------------------|---------------------------------------------------|
 | Standard Deviation is 2.7, 1.9, and 2.8 | ![Alt Text](Image/HW-11-Solutions-Problem-10.png) |
 
-Yes, All the sample sizes are at least 30 and the largest standard deviation is less than 2 times the smallest standard deviation.<br>
+Yes. All the sample sizes are at least 30 and the largest standard deviation is less than 2 times the smallest standard deviation.<br>
 
 ### Problem 11
 **Consider the FootballBrain dataset with its three categories: No football, football with no concussion, football with concussion.<br>**
@@ -588,4 +588,15 @@ What to answer to be graded: Is the test in part b. ii. significant at the 5% si
 | 0.050*2 = 0.100                         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
 
 Note: difference means that it can be bigger or smaller, so multiply it by 2<br>
-NO, The p-value is approximately 0.11<br>
+NO. The p-value is approximately 0.11<br>
+
+### Problem 12
+**Look at the StatKey dataset Benford. It has the probabilities for Benford’s law and two different datasets.<br>**
+answer this question “Which of the two different sets of data included in that file is inconsistent with the probabilities given by Benford’s law?<br>
+
+1. Statkey -> X^2 goodness of fit test<br>
+2. Edit data and provide addresses and invoices data one by one<br>
+3. In the Null Hypothesis enter Benford probabilities<br>
+4. Generate 1000 samples and read a right tale p-value for the calculated X^2 value.<br>
+
+Invoices. Very small p-value.<br>
