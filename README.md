@@ -617,3 +617,8 @@ YES. The p-value =0.07<br>
 ## Chapter 12 Mathematical Statistics
 ### 12.3 Maximum Likelihood Estimator - Calculus
 Robust: refers to the ability of a statistical method to provide reliable and accurate results even when certain assumptions are not met or when the data deviate from the ideal conditions.<br>
+Maximum likelihood estimator: it might be the value of P that maximizes the probability of getting the data we actually got.<br>
+
+We want to maximum L:<br>
+L(p) = p^12(1-p)^13 for 0 <= p <= 1<br>
+Note: L is short for likelihood<br>
