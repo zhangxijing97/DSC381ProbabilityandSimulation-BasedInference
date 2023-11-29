@@ -619,6 +619,10 @@ YES. The p-value =0.07<br>
 Robust: refers to the ability of a statistical method to provide reliable and accurate results even when certain assumptions are not met or when the data deviate from the ideal conditions.<br>
 Maximum likelihood estimator: it might be the value of P that maximizes the probability of getting the data we actually got.<br>
 
+**Example 1 for MLE:br>**
+Suppose that we want to estimate the recidivism rate for juvenile offenders in a large city.<br>
+We randomly sample 25 juveniles from the juveniles who were released from jail and determine whether each did or did not return to jail within a two-year period.<br>
+
 We want to maximum L:<br>
 L(p) = p^12(1-p)^13 for 0 <= p <= 1<br>
 Note: L is short for likelihood<br>
