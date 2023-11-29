@@ -615,5 +615,5 @@ Invoices. Very small p-value.<br>
 YES. The p-value =0.07<br>
 
 ## Chapter 12 Mathematical Statistics
-### 12.3 Maximum Likelihood Estimator - Calculus
+### 12.3 Maximum Likelihood Estimator Calculus
 Robust: refers to the ability of a statistical method to provide reliable and accurate results even when certain assumptions are not met or when the data deviate from the ideal conditions.<br>
