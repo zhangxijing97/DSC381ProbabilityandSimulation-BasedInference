@@ -138,7 +138,7 @@ We can construct a point estimate for this difference as (T for treatment and C 
 
 Result: Under the null hypothesis (no treatment effect), we’d observe a difference of at least +20% about 0.6%(StatKey shows 1%) of the time. That is really rare! Instead, we will conclude the data provide strong evidence there is a treatment effect: reminding students before a purchase that they could instead spend the money later on something else lowers the chance that they will continue with the purchase.
 
-## Confidence Interval
+### Confidence Interval
 - Statistics: Assuming we have a good description of the experimental data as a r.v.’s, we try to report inference on the parameters, like p etc.
 
 - Confidence Interval: we create what is called a confidence interval, which is a range of plausible values where we may find the true population value. The process for creating a confidence interval is based on understanding how a statistic (here the sample proportion p̂) varies around the parameter (here the population proportion p) when many different statistics are calculated from many different samples.
@@ -187,13 +187,13 @@ Question: The original claim was that the consultant’s true rate of complicati
 
 Answer: No. Because the interval overlaps 10%, it might be that the consultant’s work is associated with a lower risk of complications, or it might be that the consultant’s work is associated with a higher risk (i.e., greater than 10%) of complications! Additionally, as previously mentioned, because this is an observational study, even if an association can be measured, there is no evidence that the consultant’s work is the cause of the complication rate (being higher or lower).
 
-## HW 4 Solutions
-### Problem 5
+### HW 4 Solutions
+#### Problem 5
 With a 90% confidence interval, the proportion of students in the band next year who will be from out-of-area. We will consider the students in the band this year as a random sample from all students who have and will attend the high school and be in the band. This year, there are 63 students in the band, 11 of whom are “out-of-area.”
 ![Alt Text](Image/HW-4-Solutions-Problem-5.png)
 0.254-0.095=0.159<br>
 Answer:  0.160<br>
-### Problem 6
+#### Problem 6
 The population of students this year at Crossroads High School has 14% are classified as being from “out of area.”<br>
 In CrossRoads High School, consider this year’s students varsity football team a random sample from all the school’s varsity football players for 20 years. This year, the varsity football team has 38 students. Of those 9 are from “out-of-area.” Test the hypothesis that the proportion of football players from “out-of-area” over the 20 years is higher than 0.14. Find the p-value.
 ![Alt Text](Image/HW-4-Solutions-Problem-6.png)
@@ -206,7 +206,7 @@ Sample statistic: p̂(p-hat) = 9/38 = 0.236842<br>
 Enter a numerical cutoff value: 0.2368(0.237 will get wrong result)<br>
 0.075<br>
 Answer:  0.068<br>
-### Problem 8
+#### Problem 8
 Test the claim that the proportion of people in the population treated with lithium have a higher proportion of non-relapse than those who are not treated (i.e. treated with a placebo in our sample.) Find the p-value for this test.<br>
 ![Alt Text](Image/HW-4-Solutions-Problem-8.png)
 p-value meaning in here: if H0 is correct, what is probability of p̂l - p̂p >= 0.083333
@@ -219,7 +219,7 @@ Sample statistic: p̂l - p̂p = 6/24 - 4/24 = 0.083333<br>
 Answer:  0.36<br>
 Note: The p-value, which is 0.36 in this case, is the probability of obtaining a sample statistic as extreme as the one calculated (0.083333) or more extreme under the null hypothesis. In other words, it tells you how likely it is to observe this difference in proportions if there is truly no difference between the groups.<br>
 
-### Problem 9
+#### Problem 9
 Find an 83% confidence interval for the difference in the proportion of people in the population who are expected to have no relapse between those treated with desipramine and those treated with lithium.
 ![Alt Text](Image/HW-4-Solutions-Problem-9.png)
 Method: Confidence interval for the difference of independant proportions<br>
@@ -233,7 +233,7 @@ Note:<br>
 0.167*24 = 4.003<br>
 We can say it is 83% probability that the difference between the proportion of the two kinds of treatment is from 4.003/24 to 12/24.<br>
 
-### Problem 10
+#### Problem 10
 | Term                | Description         |
 |---------------------|---------------------|
 | "p-hat" (p̂)         | Represents the sample proportion or sample probability of success. In experiments, you calculate p-hat as the number of successes. |
@@ -281,31 +281,31 @@ Note: p-value is the probability of obtaining a test statistic as extreme as, or
 • Having a choice mainly illustrates that there is not just one way to do it.<br>
 • Here, I chose this method because, if the “treatment” (light exposure) changes not only the mean but the variability in weight gain, this method preserves the different variability in the different groups.<br>
 
-### Student Smokers (hypothesis test)
+#### Student Smokers (hypothesis test)
 ![Alt Text](Image/Chapter-10-Example-2.png)
 The p-value is 2(0.124) = 0.248<br>
 **Interpretation of result:** The actual data we observed is not at all far out in the tails of this dist’n, so it is reasonably likely to happen if Ho is true.<br>
 **Conclusion:** The p-value for this hypothesis test is 0.248, which is not at all small. Data values this extreme could easily happen by chance alone if there is no real difference in the population proportions of smokers.<br>
 
-### Mustang Price dataset (confidence interval)
+#### Mustang Price dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-3.png)
 
-### Manhattan Apts. Rent dataset (confidence interval)
+#### Manhattan Apts. Rent dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-4.png)
 
-### Very Small Proportion dataset (confidence interval)
+#### Very Small Proportion dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-5.png)
 
-### Median of Mustang Price dataset (confidence interval)
+#### Median of Mustang Price dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-6.png)
 
-### Median of Manhattan Apts. Rent dataset (confidence interval)
+#### Median of Manhattan Apts. Rent dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-7.png)
 
-### Standard Deviation of Body Temperature dataset (confidence interval)
+#### Standard Deviation of Body Temperature dataset (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-8.png)
 
-### Standard Deviation of Car Depreciation Data (confidence interval)
+#### Standard Deviation of Car Depreciation Data (confidence interval)
 ![Alt Text](Image/Chapter-10-Example-9.png)
 
 ## Chapter 11 Inferential Statistics with Theoretical Distributions
@@ -352,8 +352,8 @@ center + 2.576 * standard deviation<br>
 Standard deviation: standard deviation of the data.<br>
 Standard error: standard deviation of the sampling distribution.<br>
 
-## HW 10 Solutions
-### Problem 11
+### HW 10 Solutions
+#### Problem 11
 **The manufacturers are interested in estimating the percentage of defective light bulbs coming from a certain process. They want a 97% confidence interval with a margin of error of 3.6%. How many light bulbs must they test?<br>**
 n = ((Z/E)^2)*p*(1-p)<br>
 n = required sample size<br>
@@ -363,19 +363,19 @@ E = margin of error<br>
 
 n = ((2.170/0.036)^2)*(0.5)(1-0.5) = 908.353<br>
 
-### Problem 12
+#### Problem 12
 **Same question as in the previous problem, but assume they had a reason to believe the proportion is fairly close to 7%. How many light bulbs must they test?<br>**
 n = ((2.170/0.036)^2)*(0.07)(1-0.07) = 236.5350<br>
 
-### Problem 13
+#### Problem 13
 **An airline has a regular flight between two cities. From a previous study, we estimate the standard deviation of the flight times to be 8.34 minutes. We want a 90% confidence interval for the average flight time with a margin of error of 2.5 minutes. How many flights must they include in the study to find that confidence interval?<br>**
 n = (1.645*8.34/2.5)^2 =  30.115  which means we need 31<br>
 
-### Problem 14
+#### Problem 14
 **Is the design of this study appropriate to provide evidence about causality?<br>**
 The statement of the problem said that the subjects were randomly assigned. So Yes.<br>
 
-### Problem 15
+#### Problem 15
 **Carry out a simulation procedure and report the p-value.<br>**
 ![Alt Text](Image/HW-4-Solutions-Problem-8.png)
 Hypothesis test for the difference of two independent means.<br>
@@ -385,15 +385,15 @@ Ha: mu_T - mu_C  >  0<br>
 Sample statistic: difference in the two sample means = 17.12<br>
 Simulation: 1000 replications for five times: 0.026, 0.031, 0.022, 0.033,  0.021<br>
 
-### Problem 17
+#### Problem 17
 **They want to estimate the difference in the average age of married women and the average age of married men in marriages between a woman and a man. Which of these is the correct method of analysis?<br>**
 Confidence interval for a difference of independent means
 
-### Problem 18
+#### Problem 18
 **From the data from the survey, they will estimate the average difference in the ages of the woman and man in a married couple in the population from which the sample is drawn. Which of these is the correct method of analysis?<br>**
 Confidence interval for the difference in means from matched pairs
 
-## 11.7 Goodness of Fit Test
+### 11.7 Goodness of Fit Test
 **Compute the Test Statistic(Chi-Square Goodness of Fit Test):<br>**
 (Observed - Expected)^2/(Expected) = (Observed - Expected)/(Expected)*(Observed - Expected)<br>
 Note: get proportions first, and know how many counts there were.<br>
@@ -427,7 +427,7 @@ Degrees of freedom: 3(number of cells) - 1 = 2<br>
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-7.png)     | ![Alt Text](Image/Chapter-11-Image-8.png)     |
 
-## 11.8 Test of Association
+### 11.8 Test of Association
 | Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               | Dataset C           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | Vanilla             | 60                  | 30                  | 90                  | Vanilla             | 61                  | 29                  | 90                  | Vanilla             | 51                  | 39                  | 90                  |
@@ -452,7 +452,7 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-9.png)     | ![Alt Text](Image/Chapter-11-Image-10.png)    |
 
-## 11.10 ANOVA for Means: F Test
+### 11.10 ANOVA for Means: F Test
 **Data description for our problem<br>**
 LightatNight4Weeks<br>
 https://github.com/zhangxijing97/DSC381ProbabilityandSimulation-BasedInference/blob/main/Datasets/LightatNight4Weeks.csv<br>
@@ -497,22 +497,22 @@ OR<br>
 • the individual populations should be normally distributed.<br>
 • Also, we need the sample standard deviations to be close to equal (the largest is no more than twice the smallest.) From our output, that is 3.0/1.9 < 2. So that’s good.<br>
 
-## HW 11 Solutions
-### Problem 1
+### HW 11 Solutions
+#### Problem 1
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 MustangPrice: Find a 90% confidence interval for the population mean price.<br>
 
 MustangPrice: A dataset with 25 observations on the 3 variables.<br>
 NO. Sample size n = 25 < 30, so this does not strictly meet the conditions.<br>
 
-### Problem 2
+#### Problem 2
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 CommuteAtlanta: Test a claim about whether the population mean commute time is less than 30 minutes.<br>
 
 CommuteAtlanta: A dataset with 500 observations on the 4 variables.<br>
 YES. n = 500 which is greater than or equal to 30.<br>
 
-### Problem 3
+#### Problem 3
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In ICUAdmissions, Find a 90% confidence interval for the difference between the proportion of Cancer patients who entered ICU with an infection and the proportion of patients without Cancer who entered the ICU with an infection. (Look at the Data Description file to see how to interpret the coding for the variables Cancer and Infection.)<br>
 
@@ -522,26 +522,26 @@ group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77,
 
 NO. The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
 
-### Problem 4
+#### Problem 4
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant A, we want to find a 95% confidence interval for the population proportion of defective items. In a sample of size 200, we find 12 defective items.
 
 Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1−p) >= 10<br>
 YES, np = 12 >= 10, n(1-p) = 188 >= 10, Both 12 and 200-12 are greater than or equal to 10.<br>
 
-### Problem 5
+#### Problem 5
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant B, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.06. In a sample of size 200, we find 14 defective items.<br>
 
 YES. n*(value of p in the null hypothesis) = 200×0.06 = 12 which is greater than or equal to 10. Also: n(1−p) = 200×0.94 = 188 is greater than or equal to 10.<br>
 
-### Problem 6
+#### Problem 6
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In manufacturing plant C, we want to test the claim that the proportion of defective items coming out of the process is greater than 0.04. In a sample of size 200, we find 12 defective items.<br>
 
 NO. Using the value of p in Ho, np = 200*0.04 = 8 which is not greater than or equal to 10.<br>
 
-### Problem 7
+#### Problem 7
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the ExerciseHours dataset, test the claim that the population mean exercise hours differs for males and females.<br>
 
@@ -552,14 +552,14 @@ In the ExerciseHours dataset, test the claim that the population mean exercise h
 Conditions needed(Inference on two means): In EACH group, Dist’n normal or CLT applies, meaning n >= 30 approximately.<br>
 NO. n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
 
-### Problem 8
+#### Problem 8
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the TrafficFlow dataset, we want to decide how much of a difference in delay time there is between two different scenarios. We have the results of one experiment that simulated busses moving along a street and recorded the delay time (in seconds) for both a fixed-time system for traffic lights and a flexible system of traffic lights. (Flexible time means that sensors monitor the flow of traffic and use that to adjust the timing of the lights.) The simulation was repeated under both conditions for a total of 24 trials. The data is paired because we have two values for each simulation run. (Reference: Lock text.)<br>
 
 Conditions needed(Inference on the mean of differences from matched pairs study): Dist’n of differences normal OR CLT applies, meaning n >= 30 approximately, where n is number of pairs.<br>
 NO. The set of differences is the only relevant column of data to check.  The sample size is less than 30 so this does not strictly meet the conditions.<br>
 
-### Problem 9
+#### Problem 9
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the CocaineTreatment dataset, test whether the two variables are associated.
 
@@ -571,7 +571,7 @@ Conditions needed(Test of association of two categorical variables): Each expect
 
 YES. Although one of the observed values is below 5, all all the expected counts are above 5.  This condition is only for the expected counts.<br>
 
-### Problem 10
+#### Problem 10
 **If you were to carry out the procedure here, are the conditions for using a theoretical dist’n strictly met, according to our Statistical Formula document?<br>**
 In the RestaurantTips dataset, test whether the mean PercentTip for the servers are different.<br>
 
@@ -582,7 +582,7 @@ Conditions needed(Analysis of Variance (ANOVA) for difference of means): In EACH
 
 Yes. All the sample sizes are at least 30 and the largest standard deviation is less than 2 times the smallest standard deviation.<br>
 
-### Problem 11
+#### Problem 11
 **Consider the FootballBrain dataset with its three categories: No football, football with no concussion, football with concussion.<br>**
 b. Investigate whether there is a difference in mean cognition between the two categories of football players.
 What to answer to be graded: Is the test in part b. ii. significant at the 5% significance level?
@@ -594,7 +594,7 @@ What to answer to be graded: Is the test in part b. ii. significant at the 5% si
 Note: difference means that it can be bigger or smaller, so multiply it by 2<br>
 NO. The p-value is approximately 0.11<br>
 
-### Problem 12
+#### Problem 12
 **Look at the StatKey dataset Benford. It has the probabilities for Benford’s law and two different datasets.<br>**
 answer this question “Which of the two different sets of data included in that file is inconsistent with the probabilities given by Benford’s law?<br>
 
