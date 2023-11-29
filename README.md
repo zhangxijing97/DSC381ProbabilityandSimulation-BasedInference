@@ -605,7 +605,7 @@ answer this question “Which of the two different sets of data included in that
 
 Invoices. Very small p-value.<br>
 
-### Problem 13
+#### Problem 13
 **In the RestaurantTips dataset, is there an association between the Day of the week and whether the bill was paid by a credit card or not? Do we reject the null hypothesis at the 10% significance level?<br>**
 
 |                                         |                                                   |
@@ -615,5 +615,5 @@ Invoices. Very small p-value.<br>
 YES. The p-value =0.07<br>
 
 ## Chapter 12 Mathematical Statistics
-## 12.3 Maximum Likelihood Estimator - Calculus
+### 12.3 Maximum Likelihood Estimator - Calculus
 Robust: refers to the ability of a statistical method to provide reliable and accurate results even when certain assumptions are not met or when the data deviate from the ideal conditions.<br>
