@@ -21,6 +21,9 @@
 - [11.10 ANOVA for Means: F Test](#1110-ANOVA-for-means-f-test)
 - [HW 11 Solutions](#hw-11-solutions)
 
+12. [Chapter 12 Mathematical Statistics](#chapter-12-mathematical-statistics)
+
+
 ## Chapter 4 Introduction to Statistical Inference
 
 | Term                | Description         |
@@ -609,3 +612,5 @@ Invoices. Very small p-value.<br>
 | Chi-square Test for Association         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
 
 YES. The p-value =0.07<br>
+
+## Chapter 12 Mathematical Statistics
