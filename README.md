@@ -517,12 +517,10 @@ YES. n = 500 which is greater than or equal to 30.<br>
 In ICUAdmissions, Find a 90% confidence interval for the difference between the proportion of Cancer patients who entered ICU with an infection and the proportion of patients without Cancer who entered the ICU with an infection. (Look at the Data Description file to see how to interpret the coding for the variables Cancer and Infection.)<br>
 
 Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1−p) >= 10<br>
-group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br>
-group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>
 
 |                                                              |                                                  |
 |--------------------------------------------------------------|--------------------------------------------------|
-| group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br> group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>| ![Alt Text](Image/HW-11-Solutions-Problem-3.png) |
+| Group1 is patients with Cancer, n1 = 20, p1 = 7/20(0.35), np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br> Group2 is patients without Cancer, n1 = 180, p1 = 77/180(0.428), np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>| ![Alt Text](Image/HW-11-Solutions-Problem-3.png) |
 
 NO. The np for group1 is 7, which is not greater than or equal to 10, so it doesn’t meet the conditions.<br>
 
