@@ -520,6 +520,10 @@ Conditions needed(Inference on two proportions): In EACH group np >= 10 AND n(1â
 group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br>
 group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>
 
+|                                                              |                                                  |
+|--------------------------------------------------------------|--------------------------------------------------|
+| group1 is patients with Cancer, n1 = 20, p1 = 7/20, np = 20(7/20) = 7, n(1-p) = 20(13/20) = 13<br> group2 is patients without Cancer, n1 = 180, p1 = 77/180, np = 180(77/180) = 77, n(1-p) = 180(103/180) = 103<br>| ![Alt Text](Image/HW-11-Solutions-Problem-3.png) |
+
 NO. The np for group1 is 7, which is not greater than or equal to 10, so it doesnâ€™t meet the conditions.<br>
 
 #### Problem 4
