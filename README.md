@@ -586,6 +586,14 @@ In the CocaineTreatment dataset, test whether the two variables are associated.
 
 CocaineTreatment: A dataset with 24 observations on Desipramine, 24 observations on Lithium, 24 observations on Placebo.<br>
 Conditions needed(Test of association of two categorical variables): Each expected count is at least 5.<br>
+
+Data table for Expected Value:
+| Data table          | Desipramine         | Lithium             | Placebo             | Total               |
+|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Yes                 | 8                   | 8                   | 8                   | 24                  |
+| No                  | 16                  | 16                  | 16                  | 48                  |
+| Total               | 24                  | 24                  | 24                  | 72                  |
+
 |                                                              |                                                  |
 |--------------------------------------------------------------|--------------------------------------------------|
 | Expected Count of No for Each Groups = 24*(24/72) = 8, Expected Count of Yes for Each Groups = 24*(44/72) = 16 | ![Alt Text](Image/HW-11-Solutions-Problem-9.png) |
