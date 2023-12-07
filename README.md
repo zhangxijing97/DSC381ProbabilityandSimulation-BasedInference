@@ -427,6 +427,11 @@ Degrees of freedom: 3(number of cells) - 1 = 2<br>
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-7.png)     | ![Alt Text](Image/Chapter-11-Image-8.png)     |
 
+Note: If I multiply all the values by 10, X^2 will also be 10 times.
+| Dataset B: p-value from theoretical dist’n    | Dataset B: p-value from Randomization Dist’n  |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-11-Image-5.1.png)   | ![Alt Text](Image/Chapter-11-Image-6.1.png)   |
+
 ### 11.8 Test of Association(Chi-squared)
 | Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               | Dataset C           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
