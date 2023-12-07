@@ -444,6 +444,7 @@ Ha: Location and the flavors of ice cream are not independent.<br>
 Ho: Location is not associated with flavors of ice cream sold.<br>
 Ha: Location is associated with flavors of ice cream sold.<br>
 
+X^2(Dataset C) =(9^)/60 + (9^2)/30 + (7^2)/100 + (7^2)/50 + (2^2)/40 + (2^2)/20 = 5.820<br>
 Degrees of freedom: there are only two “free” cells here<br>
 r = number of rows<br>
 c = number of columns<br>
