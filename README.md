@@ -399,7 +399,7 @@ Confidence interval for the difference in means from matched pairs
 Note: get proportions first, and know how many counts there were.<br>
 
 **Here’s the formula for the test statistic:<br>**
-X^2 = Σ(Observed - Expected)^2/(Expected)
+X^2 = Σ(Observed - Expected)^2/(Expected)<br>
 
 **Example: Ice cream sales in October<br>**
 Sell three flavors of ice cream: vanilla, chocolate, and strawberry.<br>
@@ -452,12 +452,16 @@ Ha: Location and the flavors of ice cream are not independent.<br>
 Ho: Location is not associated with flavors of ice cream sold.<br>
 Ha: Location is associated with flavors of ice cream sold.<br>
 
-Look at Dataset A:<br>
+**Look at Dataset A:<br>**
 What are the proportions of the three flavors in the East location?<br>
 V: 60/200 = 0.30 C: 100/200 = 0.50 S: 40/200 =0.20<br>
 What are the proportions of the three flavors in the West location?<br>
 V: 30/100 = 0.30 C: 50/100 = 0.50 S: 20/100 =0.20<br>
 
+**Example:<br>**
+X^2 = Σ(Observed - Expected)^2/(Expected)<br>
+Expected(V in East in Dataset C) = 90*(200/300) = 60(If the same proportion of V ice cream is sold in both locations)<br>
+Expected(V in West in Dataset C) = 90*(200/300) = 30(If the same proportion of V ice cream is sold in both locations)<br>
 X^2(Dataset C) =(9^)/60 + (9^2)/30 + (7^2)/100 + (7^2)/50 + (2^2)/40 + (2^2)/20 = 5.820<br>
 Degrees of freedom: there are only two “free” cells here<br>
 r = number of rows<br>
