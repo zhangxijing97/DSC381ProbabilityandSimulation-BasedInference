@@ -460,8 +460,8 @@ V: 30/100 = 0.30 C: 50/100 = 0.50 S: 20/100 =0.20<br>
 
 **Example:<br>**
 X^2 = Σ(Observed - Expected)^2/(Expected)<br>
-Expected(V in East in Dataset C) = 90*(200/300) = 60(If the same proportion of V ice cream is sold in both locations)<br>
-Expected(V in West in Dataset C) = 90*(200/300) = 30(If the same proportion of V ice cream is sold in both locations)<br>
+Expected(V in East in Dataset C) = 90*(200/300) = 60(If the same proportion of V is sold in both locations)<br>
+Expected(V in West in Dataset C) = 90*(200/300) = 30(If the same proportion of V is sold in both locations)<br>
 X^2(Dataset C) =(9^)/60 + (9^2)/30 + (7^2)/100 + (7^2)/50 + (2^2)/40 + (2^2)/20 = 5.820<br>
 Degrees of freedom: there are only two “free” cells here<br>
 r = number of rows<br>
