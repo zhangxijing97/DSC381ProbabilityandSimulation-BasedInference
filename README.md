@@ -440,6 +440,9 @@ Note: If I multiply all the values by 10, X^2 will also be 10 times.
 | Strawberry          | 40                  | 20                  | 60                  | Strawberry          | 41                  | 19                  | 60                  | Strawberry          | 42                  | 18                  | 60                  |
 | Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 | Total               | 200                 | 100                 | 300                 |
 
+Ho:The same proportion of strawberry ice cream is sold in both locations<br>
+Ha: In the East location a higher proportion of chocolate ice cream is sold than in the West location.<br>
+
 Ho: Location and the flavors of ice cream sold are not related.<br>
 Ha: Location and the flavors of ice cream sold are related.<br>
 
@@ -448,6 +451,12 @@ Ha: Location and the flavors of ice cream are not independent.<br>
 
 Ho: Location is not associated with flavors of ice cream sold.<br>
 Ha: Location is associated with flavors of ice cream sold.<br>
+
+Look at Dataset A:<br>
+What are the proportions of the three flavors in the East location?<br>
+V: 60/200 = 0.30 C: 100/200 = 0.50 S: 40/200 =0.20<br>
+What are the proportions of the three flavors in the West location?<br>
+V: 30/100 = 0.30 C: 50/100 = 0.50 S: 20/100 =0.20<br>
 
 X^2(Dataset C) =(9^)/60 + (9^2)/30 + (7^2)/100 + (7^2)/50 + (2^2)/40 + (2^2)/20 = 5.820<br>
 Degrees of freedom: there are only two “free” cells here<br>
