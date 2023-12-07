@@ -393,7 +393,7 @@ Confidence interval for a difference of independent means
 **From the data from the survey, they will estimate the average difference in the ages of the woman and man in a married couple in the population from which the sample is drawn. Which of these is the correct method of analysis?<br>**
 Confidence interval for the difference in means from matched pairs
 
-### 11.7 Goodness of Fit Test
+### 11.7 Goodness of Fit Test(Chi-squared)
 **Compute the Test Statistic(Chi-Square Goodness of Fit Test):<br>**
 (Observed - Expected)^2/(Expected) = (Observed - Expected)/(Expected)*(Observed - Expected)<br>
 Note: get proportions first, and know how many counts there were.<br>
@@ -427,7 +427,7 @@ Degrees of freedom: 3(number of cells) - 1 = 2<br>
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-7.png)     | ![Alt Text](Image/Chapter-11-Image-8.png)     |
 
-### 11.8 Test of Association
+### 11.8 Test of Association(Chi-squared)
 | Dataset A           | East                | West                | Total               | Dataset B           | East                | West                | Total               | Dataset C           | East                | West                | Total               |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | Vanilla             | 60                  | 30                  | 90                  | Vanilla             | 61                  | 29                  | 90                  | Vanilla             | 51                  | 39                  | 90                  |
@@ -549,7 +549,7 @@ In the ExerciseHours dataset, test the claim that the population mean exercise h
 
 |                                                              |                                                  |
 |--------------------------------------------------------------|--------------------------------------------------|
-| Group1(M), n1 = 20, x̄1 = 12.4, Group2(F), n2 = 30, x̄2 = 12.4 | ![Alt Text](Image/HW-11-Solutions-Problem-7.png) |
+| Group1(M), n1 = 20, x̄1 = 12.4, Group2(F), n2 = 30, x̄2 = 9.4| ![Alt Text](Image/HW-11-Solutions-Problem-7.png) |
 
 Conditions needed(Inference on two means): In EACH group, Dist’n normal or CLT applies, meaning n >= 30 approximately.<br>
 NO. n1=20, n2=30, One of the sample sizes is too small to strictly meet the conditions.<br>
