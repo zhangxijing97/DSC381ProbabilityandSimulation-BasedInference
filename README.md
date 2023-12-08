@@ -716,7 +716,7 @@ p-value = 0.014<br>
 **a. To construct a confidence interval, using theoretical methods, for the difference of the proportions of households with children under 12 who have visited a library in the last year and the proportion of households without children under 12 who have visited a library in the last year, we must compute the appropriate standard error, called SE. What is the SE?<br>**
 X1 = 29, X2 = 15, n1 = 69, n2 = 120<br>
 P = 44/189<br>
-SE = √[(p)(1-p)*(1/n1+1/n2)] = √[(44/189)(145/189)*(1/69+1/120)]<br>
+SE = √[(44/189 - 0)^2*145/189+(1 - 44/189)^2*44/189]/189 = √[(p)(1-p)*(1/n1 + 1/n2)] = √[(44/189)(145/189)*(1/69 + 1/120)] = 0.06665<br>
 
 **b. To test the hypotheses, using theoretical methods, that there is a difference between the proportion of households, using theoretical methods, with children under 12 who have visited a library in the last year and the proportion of households without children under 12 who have visited a library in the last year, we must compute the appropriate standard error, called SE. What is the SE?<br>**
 
