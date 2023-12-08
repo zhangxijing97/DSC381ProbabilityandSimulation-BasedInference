@@ -700,7 +700,7 @@ F = 4.055<br>
 **b. Find the p-value for the test.<br>**
 | ANOVA for Difference in Means                       | Theoretical Distribution                            |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-15.2.png) |
+| ![Alt Text](Image/HW-11-Solutions-Problem-16.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-16.2.png) |
 
 p-value = 0.014<br>
 
