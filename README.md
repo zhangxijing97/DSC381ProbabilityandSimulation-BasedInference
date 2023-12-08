@@ -474,6 +474,8 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | ![Alt Text](Image/Chapter-11-Image-9.png)     | ![Alt Text](Image/Chapter-11-Image-10.png)    |
 
 ### 11.10 ANOVA for Means: F Test
+Note: ANOVA: Analysis of Variance<br>
+
 **Data description for our problem<br>**
 LightatNight4Weeks<br>
 https://github.com/zhangxijing97/DSC381ProbabilityandSimulation-BasedInference/blob/main/Datasets/LightatNight4Weeks.csv<br>
@@ -486,33 +488,28 @@ We want to test the claim that the THREE means of Body Mass Gain are the same ve
 HO: μLD = μDM = μLL<br>
 HA: At least a pair of the means differs<br>
 
-**ANOVA: Analysis of Variance<br>**
-SSTotal: Sum of Squares of Total(Variability of all data)<br>
-SSG: Sum of Squares of Groups(Variability BETWEEN groups)<br>
-SSE: Sum of Squares of error(Variability WITHIN the groups)<br>
+**SSTotal = SSG + SSE<br>**
+
+SSTotal: Sum of Squares of Total(Variability of all data) = Σ(x - x̄)^2<br>
+SSG: Sum of Squares of Groups(Variability BETWEEN groups) = Σni(x̄i - x̄)^2<br>
+SSE: Sum of Squares of Error(Variability WITHIN the groups) = Σ(x - x̄i)^2<br>
 
 Var(X) = E{(X − EX)^2}<br>
 x̄ = mean of all observations<br>
 x̄i = mean of observations in the ith group<br>
-SSTotal = Σ(x - x̄)^2<br>
-SSGroups = Σni(x̄i - x̄)^2<br>
-SSError = Σ(x - x̄i)^2<br>
 
-SSTotal = SSG + SSE<br>
+**F statistic = MSG/MSE<br>**
 
-**From SS to MS to F<br>**
-Divide by the degrees of freedom to obtain “Mean Squared Error” of each.<br>
-MSG = Mean Squared Error of groups<br>
-MSE: Mean Squared Error within the groups<br>
+MSG(Mean Squared Error of groups) = SSG/(k-1)<br>
+MSE(Mean Squared Error within the groups) = SSE/(n-k)<br>
+
 k = 3 (number of the groups)<br>
 n = 27 (number of the observations within the groups)<br>
 
-MSG = SSG/(k-1)<br>
-MSE = SSE/(n-k)<br>
 F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
-Note: The term "F statistic" is named after Sir Ronald A. Fisher<br>
-if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>
-If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<br>
+Note: "F statistic" compare the Variability Between the Groups with the Variability Within the Groups. The term "F statistic" is named after Sir Ronald A. Fisher<br>
+**if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>**
+**If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<<br>**
 
 | Get the F Value                               |
 |-----------------------------------------------|
