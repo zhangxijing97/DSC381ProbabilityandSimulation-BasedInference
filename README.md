@@ -400,8 +400,7 @@ Do the data fit a particular specified dist’n?<br>
 (Observed - Expected)^2/(Expected) = (Observed - Expected)/(Expected)*(Observed - Expected)<br>
 Note: get proportions first, and know how many counts there were.<br>
 
-**Here’s the formula for the test statistic:<br>**
-X^2 = Σ(Observed - Expected)^2/(Expected)<br>
+**Formula for the test statistic: X^2 = Σ(Observed - Expected)^2/(Expected)<br>**
 
 **Example: Ice cream sales in October<br>**
 Sell three flavors of ice cream: vanilla, chocolate, and strawberry.<br>
@@ -633,9 +632,8 @@ What to answer to be graded: Is the test in part b. ii. significant at the 5% si
 |---------------------------------------------------|-----------------------------------------------------|
 | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) | ![Alt Text](Image/HW-11-Solutions-Problem-11.1.png) |
 
-p = 0.050*2 = 0.100
-p = 0.0105
-
+p(Randomization Test) = 0.050*2 = 0.100<br>
+p(ANOVA) = 0.0105<br>
 Note: difference means that it can be bigger or smaller, so multiply it by 2<br>
 NO. The p-value is approximately 0.11<br>
 
