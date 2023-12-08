@@ -659,9 +659,9 @@ Invoices. Very small p-value.<br>
 #### Problem 13
 **In the RestaurantTips dataset, is there an association between the Day of the week and whether the bill was paid by a credit card or not? Do we reject the null hypothesis at the 10% significance level?<br>**
 
-|                                         |                                                   |
-|-----------------------------------------|---------------------------------------------------|
-| Chi-square Test for Association         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
+| Chi-square Test for Association                     | Theoretical Distribution                            |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-13.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-13.2.png) |
 
 YES. The p-value =0.07<br>
 
