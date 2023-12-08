@@ -513,9 +513,14 @@ F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
 Note: The term "F statistic" is named after Sir Ronald A. Fisher<br>
 if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>
 If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<br>
-|                                               |                                               |                                               |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Alt Text](Image/Chapter-11-Image-11.png)    | ![Alt Text](Image/Chapter-11-Image-12.png)    | ![Alt Text](Image/Chapter-11-Image-13.png)    |
+
+| Get the F Value                               |
+|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-11-Image-11.png)    |
+
+| p-value from theoretical dist’n               | p-value from Randomization Dist’n             |
+|-----------------------------------------------|-----------------------------------------------|
+| ![Alt Text](Image/Chapter-11-Image-12.png)    | ![Alt Text](Image/Chapter-11-Image-13.png)    |
 
 Conditions for using a theoretical distribution:<br>
 • To use the theoretical distribution, we need to have sample sizes large enough for the Central Limit Theorem to give us the normality we need<br>
