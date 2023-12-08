@@ -520,11 +520,14 @@ Note: "F statistic" compare the Variability Between the Groups with the Variabil
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-12.png)    | ![Alt Text](Image/Chapter-11-Image-13.png)    |
 
-Conditions for using a theoretical distribution:<br>
+**Conditions for using a theoretical distribution:<br>**
 • To use the theoretical distribution, we need to have sample sizes large enough for the Central Limit Theorem to give us the normality we need<br>
 OR<br>
 • the individual populations should be normally distributed.<br>
 • Also, we need the sample standard deviations to be close to equal (the largest is no more than twice the smallest.) From our output, that is 3.0/1.9 < 2. So that’s good.<br>
+
+**Finding the p-value from a randomization test, p = 0.0015. Very strong evidence for Ha.<br>**
+**Finding the p-value in the F dist’n, p = 0.0017. Very strong evidence for Ha.<br>**
 
 ### HW 11 Solutions
 #### Problem 1
