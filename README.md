@@ -509,8 +509,8 @@ n = 27 (number of the observations within the groups)<br>
 F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
 Note: "F statistic" compare the Variability Between the Groups with the Variability Within the Groups. The term "F statistic" is named after Sir Ronald A. Fisher<br>
 
-**if the MS of groups is larger than the MS of errors, that would be evidence that the groups are further apart.<br>**
-**If the MS of groups is smaller than the MS of errors, that would be evidence that the groups are not further apart.<br>**
+**If MS of groups is larger than MS of errors, that would be evidence that the groups are further apart.<br>**
+**If MS of groups is smaller than MS of errors, that would be evidence that the groups are not further apart.<<br>**
 
 | Get the F Value                               |
 |-----------------------------------------------|
