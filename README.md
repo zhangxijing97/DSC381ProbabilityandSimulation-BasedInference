@@ -646,6 +646,14 @@ answer this question “Which of the two different sets of data included in that
 3. In the Null Hypothesis enter Benford probabilities<br>
 4. Generate 1000 samples and read a right tale p-value for the calculated X^2 value.<br>
 
+| Chi-square Goodness-of-Fit for Address              | Theoretical Distribution for Invoices               |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-12.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-12.2.png) |
+
+| Chi-square Goodness-of-Fit for Invoices             | Theoretical Distribution for Invoices               |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-12.3.png) | ![Alt Text](Image/HW-11-Solutions-Problem-12.4.png) |
+
 Invoices. Very small p-value.<br>
 
 #### Problem 13
