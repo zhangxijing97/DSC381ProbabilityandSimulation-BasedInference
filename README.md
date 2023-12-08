@@ -679,6 +679,17 @@ The df = number of categories – 1 = 3 - 1 = 2
 The chi-squared statistic is 3.390. The p value is 0.184<br>
 
 #### Problem 15
+**In the StudentSurvey dataset, students chose which of the 3 awards they would prefer to win: Olympic medal, Nobel Prize, or Academy Award. The dataset also includes a column HigherSAT indicating the part of the SAT in which the student made a higher score. Using exactly that column of values, test the claim that there is an association between the type of award a student prefers and their value in that HigherSat data column. Use a theoretical dist’n.<br>**
+
+**a. What is the value of the test statistic?<br>**
+13.622<br>
+
+**b. Find the p-value for the test.<br>**
+| Chi-square Goodness-of-Fit                          | Theoretical Distribution                            |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) |
+
+p-value = 0.0011<br>
 
 ## Chapter 12 Mathematical Statistics
 ### 12.3 Maximum Likelihood Estimator - Calculus
