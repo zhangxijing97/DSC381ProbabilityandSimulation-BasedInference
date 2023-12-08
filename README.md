@@ -629,9 +629,12 @@ Yes. All the sample sizes are at least 30 and the largest standard deviation is 
 b. Investigate whether there is a difference in mean cognition between the two categories of football players.
 What to answer to be graded: Is the test in part b. ii. significant at the 5% significance level?
 
-|                                         |                                                   |
-|-----------------------------------------|---------------------------------------------------|
-| 0.050*2 = 0.100                         | ![Alt Text](Image/HW-11-Solutions-Problem-11.png) |
+| Randomization Test for a Difference in Means      | ANOVA for Difference in Means                       |
+|---------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-11.png) | ![Alt Text](Image/HW-11-Solutions-Problem-11.1.png) |
+
+p = 0.050*2 = 0.100
+p = 0.0105
 
 Note: difference means that it can be bigger or smaller, so multiply it by 2<br>
 NO. The p-value is approximately 0.11<br>
