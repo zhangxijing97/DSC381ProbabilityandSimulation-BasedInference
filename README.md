@@ -514,7 +514,7 @@ Note: "F statistic" compare the Variability Between the Groups with the Variabil
 
 | Get the F Value                               | Get the F Value                               |
 |-----------------------------------------------|-----------------------------------------------|
-| SS(Sum of Sq), MS(Mean of Sq)                 | ![Alt Text](Image/Chapter-11-Image-11.png)    |
+| SS(Sum of Sq)<br> MS(Mean of Sq)<br>          | ![Alt Text](Image/Chapter-11-Image-11.png)    |
 
 | p-value from theoretical dist’n               | p-value from Randomization Dist’n             |
 |-----------------------------------------------|-----------------------------------------------|
