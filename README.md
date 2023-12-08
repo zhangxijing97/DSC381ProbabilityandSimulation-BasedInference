@@ -665,6 +665,21 @@ Invoices. Very small p-value.<br>
 
 YES. The p-value =0.07<br>
 
+#### Problem 14
+**In the StudentSurvey dataset, students chose which of the 3 awards they would prefer to win: Olympic medal, Nobel Prize, or Academy Award. Test the claim that 9% of the students in the population this represents prefer the Academy Award and the remaining students are evenly split between the other two awards. Use a theoretical distribution.<br>**
+
+**a. What are the degrees of freedom?<br>**
+The df = number of categories – 1 = 3 - 1 = 2
+
+**b. Find the p-value for the test using that theoretical distribution.<br>**
+| Chi-square Goodness-of-Fit                          | Theoretical Distribution                            |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-14.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-14.1.png) |
+
+The chi-squared statistic is 3.390. The p value is 0.184<br>
+
+#### Problem 15
+
 ## Chapter 12 Mathematical Statistics
 ### 12.3 Maximum Likelihood Estimator - Calculus
 Robust: refers to the ability of a statistical method to provide reliable and accurate results even when certain assumptions are not met or when the data deviate from the ideal conditions.<br>
