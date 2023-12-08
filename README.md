@@ -517,6 +517,7 @@ If the mean squared of groups is smaller than the mean squared of errors, that w
 | Get the F Value                               |
 |-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-11.png)    |
+
 | p-value from theoretical dist’n               | p-value from Randomization Dist’n             |
 |-----------------------------------------------|-----------------------------------------------|
 | ![Alt Text](Image/Chapter-11-Image-12.png)    | ![Alt Text](Image/Chapter-11-Image-13.png)    |
