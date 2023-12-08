@@ -512,7 +512,7 @@ Note: "F statistic" compare the Variability Between the Groups with the Variabil
 **If MS of groups is larger than MS of errors, that would be evidence that the groups are further apart.<br>**
 **If MS of groups is smaller than MS of errors, that would be evidence that the groups are not further apart.<br>**
 
-| Get the F Value                               | Get the F Value                               |
+|                                               | Get the F Value                               |
 |-----------------------------------------------|-----------------------------------------------|
 | SS(Sum of Sq)<br> MS(Mean of Sq)<br>          | ![Alt Text](Image/Chapter-11-Image-11.png)    |
 
