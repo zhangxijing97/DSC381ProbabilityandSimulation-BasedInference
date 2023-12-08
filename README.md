@@ -685,11 +685,24 @@ The chi-squared statistic is 3.390. The p value is 0.184<br>
 13.622<br>
 
 **b. Find the p-value for the test.<br>**
-| Chi-square Goodness-of-Fit                          | Theoretical Distribution                            |
+| Chi-square Test for Association                     | Theoretical Distribution                            |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) |
+| ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-15.2.png) |
 
 p-value = 0.0011<br>
+
+#### Problem 16
+**In the TextbookCosts dataset, the variable Cost is the “Total Cost (in dollars) per course for the required books.” Test the claim that there is a difference in the average of the Cost variable in the several “fields” of study. Do this using a theoretical dist’n.<br>**
+
+**a. What is the value of the test statistic?<br>**
+F = 4.055<br>
+
+**b. Find the p-value for the test.<br>**
+| ANOVA for Difference in Means                       | Theoretical Distribution                            |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Alt Text](Image/HW-11-Solutions-Problem-15.1.png) | ![Alt Text](Image/HW-11-Solutions-Problem-15.2.png) |
+
+p-value = 0.014<br>
 
 ## Chapter 12 Mathematical Statistics
 ### 12.3 Maximum Likelihood Estimator - Calculus
