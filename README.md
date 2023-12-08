@@ -474,9 +474,9 @@ df = (r – 1)(c – 1) = (3-1)(2-1) = (2)(1) = 2<br>
 | ![Alt Text](Image/Chapter-11-Image-9.png)     | ![Alt Text](Image/Chapter-11-Image-10.png)    |
 
 ### 11.10 ANOVA for Means: F Test
-Note: ANOVA: Analysis of Variance<br>
+ANOVA: Analysis of Variance<br>
 
-**Data description for our problem<br>**
+**Data description for our problem:<br>**
 LightatNight4Weeks<br>
 https://github.com/zhangxijing97/DSC381ProbabilityandSimulation-BasedInference/blob/main/Datasets/LightatNight4Weeks.csv<br>
 Description: Data from an experiment with mice having different nighttime light conditions.<br>
@@ -508,8 +508,9 @@ n = 27 (number of the observations within the groups)<br>
 
 F statistic = MSG/MSE = (113.1/2)/(161.8/24) = 56.541/6.743 = 8.385<br>
 Note: "F statistic" compare the Variability Between the Groups with the Variability Within the Groups. The term "F statistic" is named after Sir Ronald A. Fisher<br>
-**if the mean squared of groups is larger than the mean squared of errors, that would be evidence that the groups are further apart.<br>**
-**If the mean squared of groups is smaller than the mean squared of errors, that would be evidence that the groups are not further apart.<<br>**
+
+**if the MS of groups is larger than the MS of errors, that would be evidence that the groups are further apart.<br>**
+**If the MS of groups is smaller than the MS of errors, that would be evidence that the groups are not further apart.<<br>**
 
 | Get the F Value                               |
 |-----------------------------------------------|
