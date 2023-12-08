@@ -477,7 +477,12 @@ LightatNight4Weeks<br>
 https://github.com/zhangxijing97/DSC381ProbabilityandSimulation-BasedInference/blob/main/Datasets/LightatNight4Weeks.csv<br>
 Description: Data from an experiment with mice having different nighttime light conditions.<br>
 Format: A dataset with 27 observations on the following 9 variables.<br>
-Light DM = dim light at night, LD = dark at night, or LL = bright light at night<br>
+LD = dark at night, DM = dim light at night, or LL = bright light at night<br>
+
+**Example:<br>**
+We want to test the claim that the THREE means of Body Mass Gain are the same versus the claim that at least a pair of the means differs.<br>
+HO: μLD = μDM = μLL<br>
+HA: At least a pair of the means differs<br>
 
 **ANOVA: Analysis of Variance<br>**
 SSTotal: Sum of Squares of Total(Variability of all data)<br>
